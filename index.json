@@ -40,13 +40,7 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "area": "COVID-19",
-      "code": "C19",
-      "packages": [
+        },
         {
           "name": "COVID-19 Case Surveillance and Contact Tracing",
           "code": "C19_CS",
@@ -73,13 +67,7 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "area": "COVID-19",
-      "code": "C19",
-      "packages": [
+        },
         {
           "name": "COVID-19 Points of Entry",
           "code": "C19_POE",
@@ -208,13 +196,7 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "area": "Civil Registration & Vital Statistics/Mortality",
-      "code": "CRVS",
-      "packages": [
+        },
         {
           "name": "Rapid Mortality Surveillance",
           "code": "CRVS_RMSE",
@@ -236,13 +218,7 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "area": "Civil Registration & Vital Statistics/Mortality",
-      "code": "CRVS",
-      "packages": [
+        },
         {
           "name": "Vital Events Notification",
           "code": "CRVS_VE",
@@ -328,13 +304,7 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "area": "COVID-19 Vaccination",
-      "code": "CVC",
-      "packages": [
+        },
         {
           "name": "COVID-19 Electronic Immunization Registry",
           "code": "CVC_EIR",
@@ -437,13 +407,7 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "area": "Entomology and Vector Control",
-      "code": "ENTO",
-      "packages": [
+        },
         {
           "name": "ENTO_IRS",
           "code": "ENTO_IRS",
@@ -470,13 +434,7 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "area": "Entomology and Vector Control",
-      "code": "ENTO",
-      "packages": [
+        },
         {
           "name": "ENTO_ITN",
           "code": "ENTO_ITN",
@@ -694,13 +652,7 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "area": "Integrated Disease Surveillance",
-      "code": "IDS",
-      "packages": [
+        },
         {
           "name": "Integrated Disease Surveillance (aggregate)",
           "code": "IDS_AGG",
@@ -765,13 +717,7 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "area": "Immunization",
-      "code": "IMM",
-      "packages": [
+        },
         {
           "name": "Immunization (EPI) Aggregate",
           "code": "IMM_AGG",
@@ -808,13 +754,7 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "area": "Immunization",
-      "code": "IMM",
-      "packages": [
+        },
         {
           "name": "Electronic Immunization Registry (routine)",
           "code": "IMM_EIR",
@@ -836,13 +776,7 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "area": "Immunization",
-      "code": "IMM",
-      "packages": [
+        },
         {
           "name": "Immunization Triangulation Dashboard",
           "code": "IMM_TRI",
@@ -959,13 +893,7 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "area": "Malaria",
-      "code": "MAL",
-      "packages": [
+        },
         {
           "name": "Malaria Surveillance for Elimination Settings",
           "code": "MAL_CS",
@@ -1127,13 +1055,7 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "area": "Non-Communicable Diseases",
-      "code": "NCD",
-      "packages": [
+        },
         {
           "name": "Sensory function: Eye and Ear care",
           "code": "NCD_SF",
@@ -1245,13 +1167,7 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "area": "Nutrition",
-      "code": "NUTR",
-      "packages": [
+        },
         {
           "name": "Nutrition (aggregate)",
           "code": "NUTR_AGG",
@@ -1677,13 +1593,7 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "area": "Tuberculosis",
-      "code": "TB",
-      "packages": [
+        },
         {
           "name": "TB Case Surveillance",
           "code": "TB_CS",
@@ -1741,13 +1651,7 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "area": "Tuberculosis",
-      "code": "TB",
-      "packages": [
+        },
         {
           "name": "Anti-Tuberculosis Drug Resistance Survey (DRS)",
           "code": "TB_DRS",
@@ -1769,13 +1673,7 @@
               ]
             }
           ]
-        }
-      ]
-    },
-    {
-      "area": "Tuberculosis",
-      "code": "TB",
-      "packages": [
+        },
         {
           "name": "TB - COVID-19 Impact Assessment",
           "code": "TB_IMPAX",
