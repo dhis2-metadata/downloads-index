@@ -1,3 +1,31 @@
 {
-  "areas": []
+  "areas": [
+    {
+      "area": "Tuberculosis",
+      "code": "TB",
+      "packages": [
+        {
+          "name": "TB Case Surveillance",
+          "code": "TB_CS",
+          "versions": [
+            {
+              "version": "",
+              "translations": [
+                {
+                  "language": "en",
+                  "dhis2Versions": [
+                    {
+                      "version": "2.36.12",
+                      "url": "https://packages.dhis2.org/en/TB_CS/5.0.0/DHIS2.36/TB_CS_5.0.0_DHIS2.36.zip",
+                      "metadataReference": "https://packages.dhis2.org/en/TB_CS/5.0.0/DHIS2.36/TB_CS_COMPLETE_5.0.0_DHIS2.36.xlsx"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
