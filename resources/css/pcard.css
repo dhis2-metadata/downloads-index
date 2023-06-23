@@ -1,0 +1,145 @@
+body {
+    font-family: "Inter", sans-serif;
+    _background-color: #F8FAFC;
+    
+    _max-width: 1420px;
+    margin: 26px 26px;
+    line-height: 1.6em;
+    color: #666;
+    }
+
+    select {
+    font-size: 18px;
+    padding: 0 10;
+    margin: 5px;
+    border: 1px solid #ddd;
+    background: #FFF;
+    _appearance: none;
+    width: auto;
+    _font-family: monospace;
+    border-radius: 3px;
+}
+    .wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 1rem;
+    row-gap: 1rem;
+    margin-top: 32px;
+    }
+    
+    .download-card {
+    background: #fff;
+    color: #051841;
+    border: 1px solid #e8edf2;
+    border-radius: 5px;
+    padding: 24px;
+    display: flex;
+    align-items: center;
+    }
+    
+    .dc-icon {
+    flex-shrink: 0;
+    margin-right: 16px;
+    }
+    
+    .dc-icon img {
+    width: 100%;
+    max-width: 100px;
+    }
+    
+    .dc-info {
+    flex-grow: 1;
+    }
+    
+    .dc-title {
+    _margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    }
+    
+    .dc-title h2 {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin: 0;
+    }
+    
+    .dc-version {
+    font-size: 1.5rem;
+    font-weight: 600;
+    }
+    
+    .dc-subtitle {
+    margin-bottom: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    }
+    
+    .dc-subtitle span {
+    color: rgba(5, 24, 65, 0.85);
+    font-size: 1rem;
+    margin: 0;
+    }
+    
+    .dc-outbound-links {
+    display: flex;
+    align-items: center;
+    _justify-content: space-between;
+    margin-bottom: 8px;
+    }
+    
+    .dc-outbound-links label:has(input[type="radio"]:checked) {
+        font-weight:bold;
+        color:#222;
+    border: solid 1px #ccc;
+    }
+    
+    .dc-outbound-links label {
+    margin-left: 12px;
+    color:#aaa;
+    border: solid 1px #ccc;
+    border-radius:3px;
+    padding:0px 5px;
+    cursor:pointer;
+    }
+
+.dc-outbound-links span{
+    color: rgba(5, 24, 65, 0.85);
+    position: relative;
+    margin-left:auto;
+}
+    
+    .dc-download {
+    margin-bottom: 16px;
+    margin-top:32px;
+    }
+    
+    .dc-download-button {
+    background: #0040a0;
+    font-size: 1.125rem;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    display: inline-block;
+    text-decoration: none;
+    }
+    
+    .dc-download-info {
+    display: flex;
+    align-items: center;
+    _margin-top: 8px;
+    }
+    
+    .dc-download-info span {
+    font-size: 0.75rem;
+    color: rgba(5, 24, 65, 0.85);
+    _margin-right: 8px;
+    }
+    
+    input[type="radio"] {
+        display:none;
+      }
+    
