@@ -197,7 +197,7 @@ $(document).ready(function() {
 
 
   // Load the JSON data and populate the table
-  $.getJSON("/index.json", function(data) {
+  $.getJSON("index.json", function(data) {
     jsonData = data;
     flatJson = flattenJson(jsonData);
 
