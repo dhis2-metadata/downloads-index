@@ -1603,6 +1603,11 @@
                       "version": "2.40.0.1",
                       "metadataReference": "https://packages.dhis2.org/en/TB_AGG/1.5.0/DHIS2.40/TB_AGG_COMPLETE_1.5.0_DHIS2.40.xlsx",
                       "url": "https://packages.dhis2.org/en/TB_AGG/1.5.0/DHIS2.40/TB_AGG_1.5.0_DHIS2.40.zip"
+                    },
+                    {
+                      "version": "2.39.2.1",
+                      "metadataReference": "https://packages.dhis2.org/en/TB_AGG/1.5.0/DHIS2.39/TB_AGG_COMPLETE_1.5.0_DHIS2.39.xlsx",
+                      "url": "https://packages.dhis2.org/en/TB_AGG/1.5.0/DHIS2.39/TB_AGG_1.5.0_DHIS2.39.zip"
                     }
                   ]
                 }
