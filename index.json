@@ -1697,6 +1697,22 @@
                   ]
                 }
               ]
+            },
+            {
+              "version": "",
+              "releaseDate": "2023-07-13",
+              "translations": [
+                {
+                  "language": "en",
+                  "dhis2Versions": [
+                    {
+                      "version": "2.38.4.3",
+                      "metadataReference": "https://packages.dhis2.org/en/TB_DRS/1.0.2/DHIS2.38/TB_DRS_COMPLETE_1.0.2_DHIS2.38.xlsx",
+                      "url": "https://packages.dhis2.org/en/TB_DRS/1.0.2/DHIS2.38/TB_DRS_1.0.2_DHIS2.38.zip"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
