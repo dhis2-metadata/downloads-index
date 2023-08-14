@@ -9,10 +9,10 @@
       <div>
         <label>
           {% if this == version %}
-          <input type="radio" name="{{name}}-version" value="{{this}}" checked>{{this}}
+          <input type="radio" name="{{name}}-version" value="{{this}}" checked> {{this}}
           {% else %}
           <input type="radio" name="{{name}}-version" value="{{this}}"
-            onchange="inCardChange('{{name}}','{{this}}','{{dhis2Version}}','{{language}}');">{{this}}
+            onchange="inCardChange('{{name}}','{{this}}','{{dhis2Version}}','{{language}}');"> {{this}}
           {% endif %}
         </label>
       </div>
@@ -25,10 +25,10 @@
       <div>
         <label>
           {% if this == dhis2Version %}
-          <input type="radio" name="{{name}}-dhis2-version" value="{{this}}" checked>{{this | replace('DHIS','')}}
+          <input type="radio" name="{{name}}-dhis2-version" value="{{this}}" checked> {{this | replace('DHIS','')}}
           {% else %}
           <input type="radio" name="{{name}}-dhis2-version" value="{{this}}"
-            onchange="inCardChange('{{name}}','{{version}}','{{this}}','{{language}}');">{{this | replace('DHIS','')}}
+            onchange="inCardChange('{{name}}','{{version}}','{{this}}','{{language}}');"> {{this | replace('DHIS','')}}
           {% endif %}
         </label>
       </div>
@@ -40,10 +40,10 @@
       <div>
         <label>
           {% if this == language %}
-          <input type="radio" name="{{name}}-lang" value="{{this}}" checked>{{this}}
+          <input type="radio" name="{{name}}-lang" value="{{this}}" checked> {{this}}
           {% else %}
           <input type="radio" name="{{name}}-lang" value="{{this}}"
-            onchange="inCardChange('{{name}}','{{version}}','{{dhis2Version}}','{{this}}');">{{this}}
+            onchange="inCardChange('{{name}}','{{version}}','{{dhis2Version}}','{{this}}');"> {{this}}
           {% endif %}
         </label>
       </div>
