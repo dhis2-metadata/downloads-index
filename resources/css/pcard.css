@@ -27,119 +27,77 @@ body {
     margin-top: 32px;
     }
     
-    .download-card {
-    background: #fff;
-    color: #051841;
-    border: 1px solid #e8edf2;
-    border-radius: 5px;
-    padding: 24px;
-    display: flex;
-    align-items: center;
-    }
-    
-    .dc-icon {
-    flex-shrink: 0;
-    margin-right: 16px;
-    }
-    
-    .dc-icon img {
-    width: 100%;
-    max-width: 100px;
-    }
-    
-    .dc-info {
-    flex-grow: 1;
-    }
-    
-    .dc-title {
-    _margin-bottom: 12px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    }
-    
-    .dc-title h2 {
-    font-size: 1.5rem;
-    font-weight: 600;
-    margin: 0;
-    }
-    
-    .dc-version {
-    font-size: 1.5rem;
-    font-weight: 600;
-    }
-    
-    .dc-subtitle {
-    margin-bottom: 24px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    }
-    
-    .dc-subtitle span {
-    color: rgba(5, 24, 65, 0.85);
-    font-size: 1rem;
-    margin: 0;
-    }
-    
-    .dc-outbound-links {
-    display: flex;
-    align-items: center;
-    _justify-content: space-between;
-    margin-bottom: 8px;
-    }
-    
-    .dc-outbound-links label:has(input[type="radio"]:checked) {
-        font-weight:bold;
-        color:#222;
-    border: solid 1px #ccc;
-    }
-    
-    .dc-outbound-links label {
-    margin-left: 12px;
-    color:#aaa;
-    border: solid 1px #ccc;
-    border-radius:3px;
-    padding:0px 5px;
-    cursor:pointer;
-    }
 
-.dc-outbound-links span{
-    color: rgba(5, 24, 65, 0.85);
-    position: relative;
-    margin-left:auto;
-}
-    
-    .dc-download {
-    margin-bottom: 16px;
-    margin-top:32px;
-    }
-    
-    .dc-download-button {
-    background: #0040a0;
-    font-size: 1.125rem;
-    color: #fff;
-    border-radius: 5px;
-    padding: 10px;
-    border: none;
-    cursor: pointer;
-    display: inline-block;
-    text-decoration: none;
-    }
-    
-    .dc-download-info {
-    display: flex;
-    align-items: center;
-    _margin-top: 8px;
-    }
-    
-    .dc-download-info span {
-    font-size: 0.75rem;
-    color: rgba(5, 24, 65, 0.85);
-    _margin-right: 8px;
-    }
-    
-    input[type="radio"] {
-        display:none;
+      .metadata-card {
+        background: #fff;
+        color: #051841;
+        border: 1px solid #e8edf2;
+        border-radius: 5px;
+        padding: 24px;
       }
-    
+      .mc-title {
+        display: flex;
+        gap: 8px;
+        align-items: center;
+        margin-bottom: 12px;
+      }
+      .mc-title-label {
+        font-size: 1.5rem;
+        font-weight: 600;
+      }
+      .mc-subtitle {
+        display: flex;
+        gap: 1.5rem;
+        margin-bottom: 1rem;
+      }
+      .mc-subtitle span {
+        color: rgba(5, 24, 65, 0.85);
+        font-size: 1rem;
+      }
+      .mc-download {
+        display: inline-flex;
+        flex-direction: column;
+        gap: 8px;
+        text-align: center;
+      }
+      .mc-download-button {
+        background: #0040a0;
+        font-size: 1.125rem;
+        color: #fff;
+        border-radius: 5px;
+        padding: 10px;
+        border: none;
+        cursor: pointer;
+        display: inline-block;
+        text-decoration: none;
+      }
+      .mc-download-info {
+        display: flex;
+        gap: 8px;
+      }
+      .mc-download-info span {
+        font-size: 0.75rem;
+        color: rgba(5, 24, 65, 0.85);
+      }
+      
+      .mc-options {
+        display: flex;
+        gap: 1rem;
+        margin-bottom: 1rem;
+      }
+      
+      .mc-optionset {
+        border: none;
+        background: none;
+        margin: 0;
+        padding: 0;
+      }
+      .mc-optionset legend {
+        font-weight: 500;
+        margin: 0 0 0.5rem 0;
+        padding: 0;
+      }
+      .mc-optionset input[type="radio"] {
+        margin-bottom: 0.3rem;
+      }
+      

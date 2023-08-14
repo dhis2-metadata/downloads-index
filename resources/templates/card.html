@@ -1,55 +1,62 @@
-<div class="download-card">
-    <div class="dc-info">
-      <div class="dc-title">
-        <h2>{{name}}</h2>
-      </div>
-      <div class="dc-subtitle">
-        <span>{{subtitle}}</span>
-      </div>
-      <div class="dc-outbound-links">Version:
-        {% for this in versions %}
+<div class="metadata-card">
+  <div class="mc-title">
+    <span class="mc-title-label">{{name}}</span>
+  </div>
+  <div class="mc-options">
+    <fieldset class="mc-optionset">
+      <legend>Package version</legend>
+      {% for this in versions %}
+      <div>
         <label>
-            {% if this == version %}
+          {% if this == version %}
           <input type="radio" name="{{name}}-version" value="{{this}}" checked>{{this}}
-            {% else %}  
-            <input type="radio" name="{{name}}-version" value="{{this}}" onchange="inCardChange('{{name}}','{{this}}','{{dhis2Version}}','{{language}}');">{{this}}
-                {% endif %}
+          {% else %}
+          <input type="radio" name="{{name}}-version" value="{{this}}"
+            onchange="inCardChange('{{name}}','{{this}}','{{dhis2Version}}','{{language}}');">{{this}}
+          {% endif %}
         </label>
-        {% endfor %}
-        <span>Released {{releaseDate}}</span>
       </div>
-      <div class="dc-outbound-links">Compatibility:
-        {% for this in dhis2Versions %}
+      {% endfor %}
+    </fieldset>
+    <fieldset class="mc-optionset">
+      <legend>DHIS2 compatibility</legend>
+
+      {% for this in dhis2Versions %}
+      <div>
         <label>
-
-            {% if this == dhis2Version %}
-          <input type="radio" name="{{name}}-dhis2-version" value="{{this}}" checked>{{this}}
-            {% else %}  
-            <input type="radio" name="{{name}}-dhis2-version" value="{{this}}" onchange="inCardChange('{{name}}','{{version}}','{{this}}','{{language}}');">{{this}}
-                {% endif %}
-
+          {% if this == dhis2Version %}
+          <input type="radio" name="{{name}}-dhis2-version" value="{{this}}" checked>{{this | replace('DHIS','')}}
+          {% else %}
+          <input type="radio" name="{{name}}-dhis2-version" value="{{this}}"
+            onchange="inCardChange('{{name}}','{{version}}','{{this}}','{{language}}');">{{this | replace('DHIS','')}}
+          {% endif %}
         </label>
-        {% endfor %}
-
       </div>
-      <div class="dc-outbound-links">Language:
-        {% for this in languages%}
+      {% endfor %}
+    </fieldset>
+    <fieldset class="mc-optionset">
+      <legend>Language</legend>
+      {% for this in languages%}
+      <div>
         <label>
-            {% if this == language %}
+          {% if this == language %}
           <input type="radio" name="{{name}}-lang" value="{{this}}" checked>{{this}}
-            {% else %}  
-            <input type="radio" name="{{name}}-lang" value="{{this}}" onchange="inCardChange('{{name}}','{{version}}','{{dhis2Version}}','{{this}}');">{{this}}
-                {% endif %}
+          {% else %}
+          <input type="radio" name="{{name}}-lang" value="{{this}}"
+            onchange="inCardChange('{{name}}','{{version}}','{{dhis2Version}}','{{this}}');">{{this}}
+          {% endif %}
         </label>
-        {% endfor %}
       </div>
-      <div class="dc-download">
-        <a href="{{url}}" title="{{url}}" class="dc-download-button">Download package zip file</a>
-        <div class="dc-download-info">
-          <span class="dc-download-size">{{downloadSize}}</span>
-          <span class="dc-download-name">{{downloadName}} [{{ language }}]</span>
-          <span class="dc-download-hash">{{downloadHash}}</span>
-        </div>
-      </div>
+      {% endfor %}
+    </fieldset>
+  </div>
+  <div class="mc-subtitle">
+    <span>Released {{releaseDate}}</span>
+  </div>
+  <div class="mc-download">
+    <a href="{{url}}" title="{{url}}" class="mc-download-button">Download</a>
+    <div class="mc-download-info">
+      <span class="mc-download-label">{{downloadName}} [{{ language }}]</span>
     </div>
   </div>
+</div>

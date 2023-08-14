@@ -188,11 +188,11 @@ $(document).ready(function() {
         });
       });
     } 
-    else {
-      // if there are no records in the filtered data, add a message to the wrapper
-      var html = nunjucks.render("card-intro.html", {});
-      wrapper.innerHTML = html;
-    }
+    // else {
+    //   // if there are no records in the filtered data, add a message to the wrapper
+    //   var html = nunjucks.render("card-intro.html", {});
+    //   wrapper.innerHTML = html;
+    // }
   }
 
 
