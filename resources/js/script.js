@@ -212,10 +212,12 @@ $(document).ready(function() {
     // populate the area selector if there isn't already a selection with that value
 
     $.each(jsonData.areas, function(i, item) {
-      if ($("#area-selector option[value='" + item.area + "']").length == 0) {
-        $("#area-selector").append(
-          '<option value="' + item.area + '">' + item.area + "</option>"
-        );
+      if (!item.hidden) {
+        if ($("#area-selector option[value='" + item.area + "']").length == 0) {
+          $("#area-selector").append(
+            '<option value="' + item.area + '">' + item.area + "</option>"
+          );
+        }
       }
     });
 
