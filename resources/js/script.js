@@ -9,25 +9,29 @@ $(document).ready(function() {
     const flattenedJson = [];
 
     json.areas.forEach(area => {
-      area.packages.forEach(package => {
-        package.packageVersions.forEach(version => {
-          version.translations.forEach(translation => {
-            translation.dhis2Versions.forEach(dhisver => {
-              // const packageName = package.name;
-
-              flattenedJson.push({
-                areaName: area.area,
-                packageName: package.name,
-                packageVersion: version.version,
-                releaseDate: version.releaseDate,
-                language: translation.language,
-                dhis2Version: dhisver.version,
-                url: dhisver.url
-              });
+        // Only process the area if hidden is not true
+        if(!area.hidden) {  
+            area.packages.forEach(package => {
+                // Only process the package if hidden is not true
+                if(!package.hidden) {  
+                    package.packageVersions.forEach(version => {
+                        version.translations.forEach(translation => {
+                            translation.dhis2Versions.forEach(dhisver => {
+                                flattenedJson.push({
+                                    areaName: area.area,
+                                    packageName: package.name,
+                                    packageVersion: version.version,
+                                    releaseDate: version.releaseDate,
+                                    language: translation.language,
+                                    dhis2Version: dhisver.version,
+                                    url: dhisver.url
+                                });
+                            });
+                        });
+                    });
+                }
             });
-          });
-        });
-      });
+        }
     });
 
     return flattenedJson;
