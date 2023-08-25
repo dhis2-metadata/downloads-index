@@ -15,6 +15,8 @@ $(document).ready(function() {
                 // Only process the package if hidden is not true
                 if(!package.hidden) {  
                     package.packageVersions.forEach(version => {
+                      // Only process the version if hidden is not true
+                      if(!version.hidden) {  
                         version.translations.forEach(translation => {
                             translation.dhis2Versions.forEach(dhisver => {
                                 flattenedJson.push({
@@ -28,6 +30,7 @@ $(document).ready(function() {
                                 });
                             });
                         });
+                      }
                     });
                 }
             });
