@@ -347,6 +347,7 @@
     {
       "area": "CVIR",
       "code": "CVIR",
+      "hidden": true,
       "packages": [
         {
           "name": "CVIR",
@@ -1579,6 +1580,7 @@
             {
               "version": "7.0.0",
               "releaseDate": "2022-10-20",
+              "hidden": true,
               "translations": [
                 {
                   "language": "en",
@@ -1794,6 +1796,7 @@
     {
       "area": "VE00",
       "code": "VE00",
+      "hidden": true,
       "packages": [
         {
           "name": "VE00",
