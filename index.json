@@ -506,6 +506,7 @@
     {
       "area": "GNRC",
       "code": "GNRC",
+      "hidden": true,
       "packages": [
         {
           "name": "GNRC",
@@ -948,6 +949,7 @@
     {
       "area": "MLAG",
       "code": "MLAG",
+      "hidden": true,
       "packages": [
         {
           "name": "MLAG",
@@ -986,6 +988,7 @@
     {
       "area": "MLS0",
       "code": "MLS0",
+      "hidden": true,
       "packages": [
         {
           "name": "MLS0",
@@ -1140,6 +1143,7 @@
         {
           "name": "NUTR",
           "code": "NUTR",
+          "hidden": true,
           "packageVersions": [
             {
               "version": "1.0.0",
@@ -1291,6 +1295,7 @@
     {
       "area": "RHAG",
       "code": "RHAG",
+      "hidden": true,
       "packages": [
         {
           "name": "RHAG",
@@ -1357,6 +1362,7 @@
     {
       "area": "RMS0",
       "code": "RMS0",
+      "hidden": true,
       "packages": [
         {
           "name": "RMS0",
@@ -1395,6 +1401,7 @@
     {
       "area": "TBAG",
       "code": "TBAG",
+      "hidden": true,
       "packages": [
         {
           "name": "TBAG",
@@ -1433,6 +1440,7 @@
     {
       "area": "TBCS",
       "code": "TBCS",
+      "hidden": true,
       "packages": [
         {
           "name": "TBCS",
@@ -1466,6 +1474,7 @@
     {
       "area": "TBDR",
       "code": "TBDR",
+      "hidden": true,
       "packages": [
         {
           "name": "TBDR",
@@ -1563,6 +1572,7 @@
             },
             {
               "version": "2.38",
+              "hidden": true,
               "releaseDate": "2022-09-16",
               "translations": [
                 {
@@ -1830,6 +1840,7 @@
     {
       "area": "VPD",
       "code": "VPD",
+      "hidden": true,
       "packages": [
         {
           "name": "Vaccine Preventable Disease Case Surveillance",
@@ -1863,6 +1874,7 @@
     {
       "area": "HICS",
       "code": "HICS",
+      "hidden": true,
       "packages": [
         {
           "name": "HICS",
