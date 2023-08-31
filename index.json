@@ -462,6 +462,28 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Vector Control - Insecticide Residual Spraying Campaign",
+          "code": "VC_IRS_CAMPAIGN",
+          "packageVersions": [
+            {
+              "version": "1.0.0",
+              "releaseDate": "2023-08-31",
+              "translations": [
+                {
+                  "language": "en",
+                  "dhis2Versions": [
+                    {
+                      "version": "2.40",
+                      "metadataReference": "https://packages.dhis2.org/en/VC_IRS/1.0.0/DHIS2.40/VC_IRS_CAMPAIGN_1.0.0_DHIS2.40.xlsx",
+                      "url": "https://packages.dhis2.org/en/VC_IRS/1.0.0/DHIS2.40/VC_IRS_1.0.0_DHIS2.40.zip"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
