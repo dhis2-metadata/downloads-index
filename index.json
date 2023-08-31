@@ -478,6 +478,11 @@
                       "version": "2.40",
                       "metadataReference": "https://packages.dhis2.org/en/VC_IRS/1.0.0/DHIS2.40/VC_IRS_CAMPAIGN_1.0.0_DHIS2.40.xlsx",
                       "url": "https://packages.dhis2.org/en/VC_IRS/1.0.0/DHIS2.40/VC_IRS_1.0.0_DHIS2.40.zip"
+                    },
+                    {
+                      "version": "2.39",
+                      "metadataReference": "https://packages.dhis2.org/en/VC_IRS/1.0.0/DHIS2.39/VC_IRS_CAMPAIGN_1.0.0_DHIS2.39.xlsx",
+                      "url": "https://packages.dhis2.org/en/VC_IRS/1.0.0/DHIS2.39/VC_IRS_1.0.0_DHIS2.39.zip"
                     }
                   ]
                 }
