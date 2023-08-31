@@ -510,6 +510,11 @@
                       "version": "2.38",
                       "metadataReference": "https://packages.dhis2.org/en/VC_ITN/1.0.0/DHIS2.38/VC_ITN_MC_1.0.0_DHIS2.38.xlsx",
                       "url": "https://packages.dhis2.org/en/VC_ITN/1.0.0/DHIS2.38/VC_ITN_1.0.0_DHIS2.38.zip"
+                    },
+                    {
+                      "version": "2.39",
+                      "metadataReference": "https://packages.dhis2.org/en/VC_ITN/1.0.0/DHIS2.39/VC_ITN_MC_1.0.0_DHIS2.39.xlsx",
+                      "url": "https://packages.dhis2.org/en/VC_ITN/1.0.0/DHIS2.39/VC_ITN_1.0.0_DHIS2.39.zip"
                     }
                   ]
                 }
