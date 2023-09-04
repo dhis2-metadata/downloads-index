@@ -2009,6 +2009,7 @@
     },
     {
       "area": "Health Facility Profile",
+      "hidden": true,
       "code": "HFP",
       "packages": [
         {
