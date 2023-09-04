@@ -2006,6 +2006,34 @@
           ]
         }
       ]
+    },
+    {
+      "area": "Health Facility Profile",
+      "code": "HFP",
+      "packages": [
+        {
+          "name": "HFP beta version",
+          "code": "HFP",
+          "packageVersions": [
+            {
+              "version": "0.1.0",
+              "releaseDate": "2023-09-04",
+              "translations": [
+                {
+                  "language": "en",
+                  "dhis2Versions": [
+                    {
+                      "version": "2.38",
+                      "metadataReference": "https://packages.dhis2.org/en/HFP/0.1.0/DHIS2.38/HFP_COMPLETE_0.1.0_DHIS2.38.xlsx",
+                      "url": "https://packages.dhis2.org/en/HFP/0.1.0/DHIS2.38/HFP_0.1.0_DHIS2.38.zip"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
