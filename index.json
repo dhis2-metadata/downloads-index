@@ -1,2040 +1,2070 @@
 {
-  "areas": [
-    {
-      "area": "COVID-19",
-      "code": "C19",
-      "packages": [
-        {
-          "name": "COVID-19 Surveillance (aggregate)",
-          "code": "C19_AGG",
-          "packageVersions": [
-            {
-              "version": "2.0.0",
-              "releaseDate": "2022-11-07",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/C19_AGG/2.0.0/DHIS2.36/C19_AGG_2.0.0_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/C19_AGG/2.0.0/DHIS2.36/C19_AGG_2.0.0_DHIS2.36.zip"
-                    },
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/C19_AGG/2.0.0/DHIS2.37/C19_AGG_2.0.0_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/C19_AGG/2.0.0/DHIS2.37/C19_AGG_2.0.0_DHIS2.37.zip"
-                    },
-                    {
-                      "version": "2.38",
-                      "metadataReference": "https://packages.dhis2.org/en/C19_AGG/2.0.0/DHIS2.38/C19_AGG_2.0.0_DHIS2.38.xlsx",
-                      "url": "https://packages.dhis2.org/en/C19_AGG/2.0.0/DHIS2.38/C19_AGG_2.0.0_DHIS2.38.zip"
-                    },
-                    {
-                      "version": "2.39",
-                      "metadataReference": "https://packages.dhis2.org/en/C19_AGG/2.0.0/DHIS2.39/C19_AGG_2.0.0_DHIS2.39.xlsx",
-                      "url": "https://packages.dhis2.org/en/C19_AGG/2.0.0/DHIS2.39/C19_AGG_2.0.0_DHIS2.39.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "COVID-19 Case Surveillance and Contact Tracing",
-          "code": "C19_CS",
-          "packageVersions": [
-            {
-              "version": "1.0.2",
-              "releaseDate": "2022-09-19",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/C19_CS/1.0.2/DHIS2.36/C19_CS_1.0.2_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/C19_CS/1.0.2/DHIS2.36/C19_CS_1.0.2_DHIS2.36.zip"
-                    },
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/C19_CS/1.0.2/DHIS2.37/C19_CS_1.0.2_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/C19_CS/1.0.2/DHIS2.37/C19_CS_1.0.2_DHIS2.37.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "COVID-19 Points of Entry",
-          "code": "C19_POE",
-          "packageVersions": [
-            {
-              "version": "1.0.2",
-              "releaseDate": "2022-09-19",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/C19_POE/1.0.2/DHIS2.36/C19_POE_1.0.2_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/C19_POE/1.0.2/DHIS2.36/C19_POE_1.0.2_DHIS2.36.zip"
-                    },
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/C19_POE/1.0.2/DHIS2.37/C19_POE_1.0.2_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/C19_POE/1.0.2/DHIS2.37/C19_POE_1.0.2_DHIS2.37.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "area": "Community Health",
-      "code": "CHIS",
-      "packages": [
-        {
-          "name": "Community Health Information System (aggregate)",
-          "code": "CHIS_AGG",
-          "packageVersions": [
-            {
-              "version": "1.0.0",
-              "releaseDate": "2022-11-02",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/CHIS_AGG/1.0.0/DHIS2.36/CHIS_AGG_1.0.0_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/CHIS_AGG/1.0.0/DHIS2.36/CHIS_AGG_1.0.0_DHIS2.36.zip"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "version": "1.0.1",
-              "releaseDate": "2023-02-07",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/CHIS_AGG/1.0.1/DHIS2.37/CHIS_AGG_1.0.1_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/CHIS_AGG/1.0.1/DHIS2.37/CHIS_AGG_1.0.1_DHIS2.37.zip"
-                    },
-                    {
-                      "version": "2.38",
-                      "metadataReference": "https://packages.dhis2.org/en/CHIS_AGG/1.0.1/DHIS2.38/CHIS_AGG_1.0.1_DHIS2.38.xlsx",
-                      "url": "https://packages.dhis2.org/en/CHIS_AGG/1.0.1/DHIS2.38/CHIS_AGG_1.0.1_DHIS2.38.zip"
-                    },
-                    {
-                      "version": "2.39",
-                      "metadataReference": "https://packages.dhis2.org/en/CHIS_AGG/1.0.1/DHIS2.39/CHIS_AGG_1.0.1_DHIS2.39.xlsx",
-                      "url": "https://packages.dhis2.org/en/CHIS_AGG/1.0.1/DHIS2.39/CHIS_AGG_1.0.1_DHIS2.39.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "area": "Civil Registration & Vital Statistics/Mortality",
-      "code": "CRVS",
-      "packages": [
-        {
-          "name": "Cause of Death - SMoL (tracker)",
-          "code": "CRVS_COD",
-          "packageVersions": [
-            {
-              "version": "1.2.1",
-              "releaseDate": "2022-11-09",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/CRVS_COD/1.2.1/DHIS2.36/CRVS_COD_1.2.1_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/CRVS_COD/1.2.1/DHIS2.36/CRVS_COD_1.2.1_DHIS2.36.zip"
-                    },
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/CRVS_COD/1.2.1/DHIS2.37/CRVS_COD_1.2.1_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/CRVS_COD/1.2.1/DHIS2.37/CRVS_COD_1.2.1_DHIS2.37.zip"
-                    }
-                  ]
-                },
-                {
-                  "language": "fr",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/fr/CRVS_COD/1.2.1/DHIS2.36/CRVS_COD_1.2.1_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/fr/CRVS_COD/1.2.1/DHIS2.36/CRVS_COD_1.2.1_DHIS2.36.zip"
-                    },
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/fr/CRVS_COD/1.2.1/DHIS2.37/CRVS_COD_1.2.1_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/fr/CRVS_COD/1.2.1/DHIS2.37/CRVS_COD_1.2.1_DHIS2.37.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Rapid Mortality Surveillance",
-          "code": "CRVS_RMSE",
-          "packageVersions": [
-            {
-              "version": "1.0.0",
-              "releaseDate": "2022-11-02",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/CRVS_RMSE/1.0.0/DHIS2.36/CRVS_RMSE_1.0.0_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/CRVS_RMSE/1.0.0/DHIS2.36/CRVS_RMSE_1.0.0_DHIS2.36.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Vital Events Notification",
-          "code": "CRVS_VE",
-          "packageVersions": [
-            {
-              "version": "1.1.0",
-              "releaseDate": "2022-11-09",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/CRVS_VE/1.1.0/DHIS2.36/CRVS_VE_1.1.0_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/CRVS_VE/1.1.0/DHIS2.36/CRVS_VE_1.1.0_DHIS2.36.zip"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "version": "1.1.1",
-              "releaseDate": "2023-01-03",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/CRVS_VE/1.1.1/DHIS2.37/CRVS_VE_1.1.1_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/CRVS_VE/1.1.1/DHIS2.37/CRVS_VE_1.1.1_DHIS2.37.zip"
-                    },
-                    {
-                      "version": "2.38",
-                      "metadataReference": "https://packages.dhis2.org/en/CRVS_VE/1.1.1/DHIS2.38/CRVS_VE_1.1.1_DHIS2.38.xlsx",
-                      "url": "https://packages.dhis2.org/en/CRVS_VE/1.1.1/DHIS2.38/CRVS_VE_1.1.1_DHIS2.38.zip"
-                    },
-                    {
-                      "version": "2.39",
-                      "metadataReference": "https://packages.dhis2.org/en/CRVS_VE/1.1.1/DHIS2.39/CRVS_VE_1.1.1_DHIS2.39.xlsx",
-                      "url": "https://packages.dhis2.org/en/CRVS_VE/1.1.1/DHIS2.39/CRVS_VE_1.1.1_DHIS2.39.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "area": "COVID-19 Vaccination",
-      "code": "CVC",
-      "packages": [
-        {
-          "name": "COVID-19 Vaccination (aggregate)",
-          "code": "CVC_AGG",
-          "packageVersions": [
-            {
-              "version": "1.1.0",
-              "releaseDate": "2023-02-24",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/CVC_AGG/1.1.0/DHIS2.37/CVC_AGG_1.1.0_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/CVC_AGG/1.1.0/DHIS2.37/CVC_AGG_1.1.0_DHIS2.37.zip"
-                    },
-                    {
-                      "version": "2.38",
-                      "metadataReference": "https://packages.dhis2.org/en/CVC_AGG/1.1.0/DHIS2.38/CVC_AGG_1.1.0_DHIS2.38.xlsx",
-                      "url": "https://packages.dhis2.org/en/CVC_AGG/1.1.0/DHIS2.38/CVC_AGG_1.1.0_DHIS2.38.zip"
-                    },
-                    {
-                      "version": "2.39",
-                      "metadataReference": "https://packages.dhis2.org/en/CVC_AGG/1.1.0/DHIS2.39/CVC_AGG_1.1.0_DHIS2.39.xlsx",
-                      "url": "https://packages.dhis2.org/en/CVC_AGG/1.1.0/DHIS2.39/CVC_AGG_1.1.0_DHIS2.39.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "COVID-19 Electronic Immunization Registry",
-          "code": "CVC_EIR",
-          "packageVersions": [
-            {
-              "version": "1.2.0",
-              "releaseDate": "2022-11-08",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/CVC_EIR/1.2.0/DHIS2.36/CVC_EIR_1.2.0_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/CVC_EIR/1.2.0/DHIS2.36/CVC_EIR_1.2.0_DHIS2.36.zip"
-                    },
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/CVC_EIR/1.2.0/DHIS2.37/CVC_EIR_1.2.0_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/CVC_EIR/1.2.0/DHIS2.37/CVC_EIR_1.2.0_DHIS2.37.zip"
-                    },
-                    {
-                      "version": "2.38",
-                      "metadataReference": "https://packages.dhis2.org/en/CVC_EIR/1.2.0/DHIS2.38/CVC_EIR_1.2.0_DHIS2.38.xlsx",
-                      "url": "https://packages.dhis2.org/en/CVC_EIR/1.2.0/DHIS2.38/CVC_EIR_1.2.0_DHIS2.38.zip"
-                    },
-                    {
-                      "version": "2.39",
-                      "metadataReference": "https://packages.dhis2.org/en/CVC_EIR/1.2.0/DHIS2.39/CVC_EIR_1.2.0_DHIS2.39.xlsx",
-                      "url": "https://packages.dhis2.org/en/CVC_EIR/1.2.0/DHIS2.39/CVC_EIR_1.2.0_DHIS2.39.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "area": "CVIR",
-      "code": "CVIR",
-      "hidden": true,
-      "packages": [
-        {
-          "name": "CVIR",
-          "code": "CVIR",
-          "packageVersions": [
-            {
-              "version": "1.2.0",
-              "releaseDate": "2022-01-19",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.35",
-                      "metadataReference": "https://packages.dhis2.org/en/CVIR/1.2.0/DHIS2.35/CVIR_1.2.0_DHIS2.35.xlsx",
-                      "url": "https://packages.dhis2.org/en/CVIR/1.2.0/DHIS2.35/CVIR_1.2.0_DHIS2.35.zip"
-                    },
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/CVIR/1.2.0/DHIS2.36/CVIR_1.2.0_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/CVIR/1.2.0/DHIS2.36/CVIR_1.2.0_DHIS2.36.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "area": "Entomology and Vector Control",
-      "code": "ENTO",
-      "packages": [
-        {
-          "name": "ENTO_BSM",
-          "code": "ENTO_BSM",
-          "packageVersions": [
-            {
-              "version": "1.0.0",
-              "releaseDate": "2022-11-09",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/ENTO_BSM/1.0.0/DHIS2.36/ENTO_BSM_1.0.0_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/ENTO_BSM/1.0.0/DHIS2.36/ENTO_BSM_1.0.0_DHIS2.36.zip"
-                    },
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/ENTO_BSM/1.0.0/DHIS2.37/ENTO_BSM_1.0.0_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/ENTO_BSM/1.0.0/DHIS2.37/ENTO_BSM_1.0.0_DHIS2.37.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "ENTO_IRS",
-          "code": "ENTO_IRS",
-          "packageVersions": [
-            {
-              "version": "1.0.0",
-              "releaseDate": "2022-11-11",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/ENTO_IRS/1.0.0/DHIS2.36/ENTO_IRS_1.0.0_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/ENTO_IRS/1.0.0/DHIS2.36/ENTO_IRS_1.0.0_DHIS2.36.zip"
-                    },
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/ENTO_IRS/1.0.0/DHIS2.37/ENTO_IRS_1.0.0_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/ENTO_IRS/1.0.0/DHIS2.37/ENTO_IRS_1.0.0_DHIS2.37.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "ENTO_ITN",
-          "code": "ENTO_ITN",
-          "packageVersions": [
-            {
-              "version": "1.0.0",
-              "releaseDate": "2022-11-11",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/ENTO_ITN/1.0.0/DHIS2.36/ENTO_ITN_1.0.0_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/ENTO_ITN/1.0.0/DHIS2.36/ENTO_ITN_1.0.0_DHIS2.36.zip"
-                    },
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/ENTO_ITN/1.0.0/DHIS2.37/ENTO_ITN_1.0.0_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/ENTO_ITN/1.0.0/DHIS2.37/ENTO_ITN_1.0.0_DHIS2.37.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Vector Control - Insecticide Residual Spraying Campaign",
-          "code": "VC_IRS_CAMPAIGN",
-          "packageVersions": [
-            {
-              "version": "1.0.0",
-              "releaseDate": "2023-08-31",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.40",
-                      "metadataReference": "https://packages.dhis2.org/en/VC_IRS/1.0.0/DHIS2.40/VC_IRS_CAMPAIGN_1.0.0_DHIS2.40.xlsx",
-                      "url": "https://packages.dhis2.org/en/VC_IRS/1.0.0/DHIS2.40/VC_IRS_1.0.0_DHIS2.40.zip"
-                    },
-                    {
-                      "version": "2.39",
-                      "metadataReference": "https://packages.dhis2.org/en/VC_IRS/1.0.0/DHIS2.39/VC_IRS_CAMPAIGN_1.0.0_DHIS2.39.xlsx",
-                      "url": "https://packages.dhis2.org/en/VC_IRS/1.0.0/DHIS2.39/VC_IRS_1.0.0_DHIS2.39.zip"
-                    },
-                    {
-                      "version": "2.38",
-                      "metadataReference": "https://packages.dhis2.org/en/VC_IRS/1.0.0/DHIS2.38/VC_IRS_CAMPAIGN_1.0.0_DHIS2.38.xlsx",
-                      "url": "https://packages.dhis2.org/en/VC_IRS/1.0.0/DHIS2.38/VC_IRS_1.0.0_DHIS2.38.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Insecticide Treated Net - Mass Campaign",
-          "code": "VC_ITN_MC",
-          "packageVersions": [
-            {
-              "version": "1.0.0",
-              "releaseDate": "2023-08-31",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.38",
-                      "metadataReference": "https://packages.dhis2.org/en/VC_ITN/1.0.0/DHIS2.38/VC_ITN_MC_1.0.0_DHIS2.38.xlsx",
-                      "url": "https://packages.dhis2.org/en/VC_ITN/1.0.0/DHIS2.38/VC_ITN_1.0.0_DHIS2.38.zip"
-                    },
-                    {
-                      "version": "2.39",
-                      "metadataReference": "https://packages.dhis2.org/en/VC_ITN/1.0.0/DHIS2.39/VC_ITN_MC_1.0.0_DHIS2.39.xlsx",
-                      "url": "https://packages.dhis2.org/en/VC_ITN/1.0.0/DHIS2.39/VC_ITN_1.0.0_DHIS2.39.zip"
-                    },
-                    {
-                      "version": "2.40",
-                      "metadataReference": "https://packages.dhis2.org/en/VC_ITN/1.0.0/DHIS2.40/VC_ITN_MC_1.0.0_DHIS2.40.xlsx",
-                      "url": "https://packages.dhis2.org/en/VC_ITN/1.0.0/DHIS2.40/VC_ITN_1.0.0_DHIS2.40.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "area": "Common Metadata Library",
-      "code": "GEN",
-      "packages": [
-        {
-          "name": "GEN_LIB",
-          "code": "GEN_LIB",
-          "packageVersions": [
-            {
-              "version": "1.0.0",
-              "releaseDate": "2022-07-05",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/GEN_LIB/1.0.0/DHIS2.36/GEN_LIB_1.0.0_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/GEN_LIB/1.0.0/DHIS2.36/GEN_LIB_1.0.0_DHIS2.36.zip"
-                    },
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/GEN_LIB/1.0.0/DHIS2.37/GEN_LIB_1.0.0_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/GEN_LIB/1.0.0/DHIS2.37/GEN_LIB_1.0.0_DHIS2.37.zip"
-                    },
-                    {
-                      "version": "2.38",
-                      "metadataReference": "https://packages.dhis2.org/en/GEN_LIB/1.0.0/DHIS2.38/GEN_LIB_1.0.0_DHIS2.38.xlsx",
-                      "url": "https://packages.dhis2.org/en/GEN_LIB/1.0.0/DHIS2.38/GEN_LIB_1.0.0_DHIS2.38.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "area": "GNRC",
-      "code": "GNRC",
-      "hidden": true,
-      "packages": [
-        {
-          "name": "GNRC",
-          "code": "GNRC",
-          "packageVersions": [
-            {
-              "version": "1.0.0",
-              "releaseDate": "2022-03-14",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.35",
-                      "metadataReference": "https://packages.dhis2.org/en/GNRC/1.0.0/DHIS2.35/GNRC_1.0.0_DHIS2.35.xlsx",
-                      "url": "https://packages.dhis2.org/en/GNRC/1.0.0/DHIS2.35/GNRC_1.0.0_DHIS2.35.zip"
-                    },
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/GNRC/1.0.0/DHIS2.36/GNRC_1.0.0_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/GNRC/1.0.0/DHIS2.36/GNRC_1.0.0_DHIS2.36.zip"
-                    },
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/GNRC/1.0.0/DHIS2.37/GNRC_1.0.0_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/GNRC/1.0.0/DHIS2.37/GNRC_1.0.0_DHIS2.37.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "area": "HFA",
-      "code": "HFA",
-      "packages": [
-        {
-          "name": "HFA",
-          "code": "HFA",
-          "packageVersions": [
-            {
-              "version": "0.0.0",
-              "releaseDate": "2023-04-21",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.38",
-                      "metadataReference": "https://packages.dhis2.org/en/HFA/0.0.0/DHIS2.38/HFA_0.0.0_DHIS2.38.xlsx",
-                      "url": "https://packages.dhis2.org/en/HFA/0.0.0/DHIS2.38/HFA_0.0.0_DHIS2.38.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "area": "HIV",
-      "code": "HIV",
-      "packages": [
-        {
-          "name": "HIV HMIS (agg)",
-          "code": "HIV_AGG",
-          "packageVersions": [
-            {
-              "version": "1.2.0",
-              "releaseDate": "2022-11-11",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/HIV_AGG/1.2.0/DHIS2.36/HIV_AGG_1.2.0_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/HIV_AGG/1.2.0/DHIS2.36/HIV_AGG_1.2.0_DHIS2.36.zip"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "version": "1.2.1",
-              "releaseDate": "2023-01-20",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/HIV_AGG/1.2.1/DHIS2.37/HIV_AGG_1.2.1_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/HIV_AGG/1.2.1/DHIS2.37/HIV_AGG_1.2.1_DHIS2.37.zip"
-                    },
-                    {
-                      "version": "2.38",
-                      "metadataReference": "https://packages.dhis2.org/en/HIV_AGG/1.2.1/DHIS2.38/HIV_AGG_1.2.1_DHIS2.38.xlsx",
-                      "url": "https://packages.dhis2.org/en/HIV_AGG/1.2.1/DHIS2.38/HIV_AGG_1.2.1_DHIS2.38.zip"
-                    },
-                    {
-                      "version": "2.39",
-                      "metadataReference": "https://packages.dhis2.org/en/HIV_AGG/1.2.1/DHIS2.39/HIV_AGG_1.2.1_DHIS2.39.xlsx",
-                      "url": "https://packages.dhis2.org/en/HIV_AGG/1.2.1/DHIS2.39/HIV_AGG_1.2.1_DHIS2.39.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "area": "Integrated Disease Surveillance",
-      "code": "IDS",
-      "packages": [
-        {
-          "name": "Acute Febrile Illness",
-          "code": "IDS_AFI",
-          "packageVersions": [
-            {
-              "version": "1.0.0",
-              "releaseDate": "2023-04-17",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.38",
-                      "metadataReference": "https://packages.dhis2.org/en/IDS_AFI/1.0.0/DHIS2.38/IDS_AFI_1.0.0_DHIS2.38.xlsx",
-                      "url": "https://packages.dhis2.org/en/IDS_AFI/1.0.0/DHIS2.38/IDS_AFI_1.0.0_DHIS2.38.zip"
-                    },
-                    {
-                      "version": "2.39",
-                      "metadataReference": "https://packages.dhis2.org/en/IDS_AFI/1.0.0/DHIS2.39/IDS_AFI_1.0.0_DHIS2.39.xlsx",
-                      "url": "https://packages.dhis2.org/en/IDS_AFI/1.0.0/DHIS2.39/IDS_AFI_1.0.0_DHIS2.39.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Integrated Disease Surveillance (aggregate)",
-          "code": "IDS_AGG",
-          "packageVersions": [
-            {
-              "version": "1.2.0",
-              "releaseDate": "2022-11-09",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/IDS_AGG/1.2.0/DHIS2.36/IDS_AGG_1.2.0_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/IDS_AGG/1.2.0/DHIS2.36/IDS_AGG_1.2.0_DHIS2.36.zip"
-                    },
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/IDS_AGG/1.2.0/DHIS2.37/IDS_AGG_1.2.0_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/IDS_AGG/1.2.0/DHIS2.37/IDS_AGG_1.2.0_DHIS2.37.zip"
-                    },
-                    {
-                      "version": "2.38",
-                      "metadataReference": "https://packages.dhis2.org/en/IDS_AGG/1.2.0/DHIS2.38/IDS_AGG_1.2.0_DHIS2.38.xlsx",
-                      "url": "https://packages.dhis2.org/en/IDS_AGG/1.2.0/DHIS2.38/IDS_AGG_1.2.0_DHIS2.38.zip"
-                    },
-                    {
-                      "version": "2.39",
-                      "metadataReference": "https://packages.dhis2.org/en/IDS_AGG/1.2.0/DHIS2.39/IDS_AGG_1.2.0_DHIS2.39.xlsx",
-                      "url": "https://packages.dhis2.org/en/IDS_AGG/1.2.0/DHIS2.39/IDS_AGG_1.2.0_DHIS2.39.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "area": "Immunization",
-      "code": "IMM",
-      "packages": [
-        {
-          "name": "Adverse Events Following Immunization (AEFI)",
-          "code": "IMM_AEFI",
-          "packageVersions": [
-            {
-              "version": "1.1.0",
-              "releaseDate": "2022-11-21",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/IMM_AEFI/1.1.0/DHIS2.36/IMM_AEFI_1.1.0_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/IMM_AEFI/1.1.0/DHIS2.36/IMM_AEFI_1.1.0_DHIS2.36.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Immunization (EPI) Aggregate",
-          "code": "IMM_AGG",
-          "packageVersions": [
-            {
-              "version": "1.0.0",
-              "releaseDate": "2022-11-21",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/IMM_AGG/1.0.0/DHIS2.36/IMM_AGG_1.0.0_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/IMM_AGG/1.0.0/DHIS2.36/IMM_AGG_1.0.0_DHIS2.36.zip"
-                    },
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/IMM_AGG/1.0.0/DHIS2.37/IMM_AGG_1.0.0_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/IMM_AGG/1.0.0/DHIS2.37/IMM_AGG_1.0.0_DHIS2.37.zip"
-                    },
-                    {
-                      "version": "2.38",
-                      "metadataReference": "https://packages.dhis2.org/en/IMM_AGG/1.0.0/DHIS2.38/IMM_AGG_1.0.0_DHIS2.38.xlsx",
-                      "url": "https://packages.dhis2.org/en/IMM_AGG/1.0.0/DHIS2.38/IMM_AGG_1.0.0_DHIS2.38.zip"
-                    },
-                    {
-                      "version": "2.39",
-                      "metadataReference": "https://packages.dhis2.org/en/IMM_AGG/1.0.0/DHIS2.39/IMM_AGG_1.0.0_DHIS2.39.xlsx",
-                      "url": "https://packages.dhis2.org/en/IMM_AGG/1.0.0/DHIS2.39/IMM_AGG_1.0.0_DHIS2.39.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Electronic Immunization Registry (routine)",
-          "code": "IMM_EIR",
-          "packageVersions": [
-            {
-              "version": "1.1.0",
-              "releaseDate": "2022-11-21",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/IMM_EIR/1.1.0/DHIS2.36/IMM_EIR_1.1.0_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/IMM_EIR/1.1.0/DHIS2.36/IMM_EIR_1.1.0_DHIS2.36.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Immunization Triangulation Dashboard",
-          "code": "IMM_TRI",
-          "packageVersions": [
-            {
-              "version": "1.0.0",
-              "releaseDate": "2022-10-13",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/IMM_TRI/1.0.0/DHIS2.36/IMM_TRI_1.0.0_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/IMM_TRI/1.0.0/DHIS2.36/IMM_TRI_1.0.0_DHIS2.36.zip"
-                    },
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/IMM_TRI/1.0.0/DHIS2.37/IMM_TRI_1.0.0_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/IMM_TRI/1.0.0/DHIS2.37/IMM_TRI_1.0.0_DHIS2.37.zip"
-                    },
-                    {
-                      "version": "2.38",
-                      "metadataReference": "https://packages.dhis2.org/en/IMM_TRI/1.0.0/DHIS2.38/IMM_TRI_1.0.0_DHIS2.38.xlsx",
-                      "url": "https://packages.dhis2.org/en/IMM_TRI/1.0.0/DHIS2.38/IMM_TRI_1.0.0_DHIS2.38.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "area": "Malaria",
-      "code": "MAL",
-      "packages": [
-        {
-          "name": "Malaria HMIS (agg)",
-          "code": "MAL_AGG",
-          "packageVersions": [
-            {
-              "version": "2.0.0",
-              "releaseDate": "2022-11-21",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/MAL_AGG/2.0.0/DHIS2.36/MAL_AGG_2.0.0_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/MAL_AGG/2.0.0/DHIS2.36/MAL_AGG_2.0.0_DHIS2.36.zip"
-                    },
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/MAL_AGG/2.0.0/DHIS2.37/MAL_AGG_2.0.0_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/MAL_AGG/2.0.0/DHIS2.37/MAL_AGG_2.0.0_DHIS2.37.zip"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "version": "2.1.0",
-              "releaseDate": "2023-02-03",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/MAL_AGG/2.1.0/DHIS2.37/MAL_AGG_2.1.0_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/MAL_AGG/2.1.0/DHIS2.37/MAL_AGG_2.1.0_DHIS2.37.zip"
-                    },
-                    {
-                      "version": "2.38",
-                      "metadataReference": "https://packages.dhis2.org/en/MAL_AGG/2.1.0/DHIS2.38/MAL_AGG_2.1.0_DHIS2.38.xlsx",
-                      "url": "https://packages.dhis2.org/en/MAL_AGG/2.1.0/DHIS2.38/MAL_AGG_2.1.0_DHIS2.38.zip"
-                    },
-                    {
-                      "version": "2.39",
-                      "metadataReference": "https://packages.dhis2.org/en/MAL_AGG/2.1.0/DHIS2.39/MAL_AGG_2.1.0_DHIS2.39.xlsx",
-                      "url": "https://packages.dhis2.org/en/MAL_AGG/2.1.0/DHIS2.39/MAL_AGG_2.1.0_DHIS2.39.zip"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "version": "2.1.1",
-              "releaseDate": "2023-01-16",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/MAL_AGG/2.1.1/DHIS2.37/MAL_AGG_2.1.1_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/MAL_AGG/2.1.1/DHIS2.37/MAL_AGG_2.1.1_DHIS2.37.zip"
-                    },
-                    {
-                      "version": "2.38",
-                      "metadataReference": "https://packages.dhis2.org/en/MAL_AGG/2.1.1/DHIS2.38/MAL_AGG_2.1.1_DHIS2.38.xlsx",
-                      "url": "https://packages.dhis2.org/en/MAL_AGG/2.1.1/DHIS2.38/MAL_AGG_2.1.1_DHIS2.38.zip"
-                    },
-                    {
-                      "version": "2.39",
-                      "metadataReference": "https://packages.dhis2.org/en/MAL_AGG/2.1.1/DHIS2.39/MAL_AGG_2.1.1_DHIS2.39.xlsx",
-                      "url": "https://packages.dhis2.org/en/MAL_AGG/2.1.1/DHIS2.39/MAL_AGG_2.1.1_DHIS2.39.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Malaria Surveillance for Elimination Settings",
-          "code": "MAL_CS",
-          "packageVersions": [
-            {
-              "version": "1.0.0",
-              "releaseDate": "2022-11-21",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/MAL_CS/1.0.0/DHIS2.36/MAL_CS_1.0.0_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/MAL_CS/1.0.0/DHIS2.36/MAL_CS_1.0.0_DHIS2.36.zip"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "version": "1.0.1",
-              "releaseDate": "2023-01-03",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/MAL_CS/1.0.1/DHIS2.37/MAL_CS_1.0.1_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/MAL_CS/1.0.1/DHIS2.37/MAL_CS_1.0.1_DHIS2.37.zip"
-                    },
-                    {
-                      "version": "2.38",
-                      "metadataReference": "https://packages.dhis2.org/en/MAL_CS/1.0.1/DHIS2.38/MAL_CS_1.0.1_DHIS2.38.xlsx",
-                      "url": "https://packages.dhis2.org/en/MAL_CS/1.0.1/DHIS2.38/MAL_CS_1.0.1_DHIS2.38.zip"
-                    },
-                    {
-                      "version": "2.39",
-                      "metadataReference": "https://packages.dhis2.org/en/MAL_CS/1.0.1/DHIS2.39/MAL_CS_1.0.1_DHIS2.39.xlsx",
-                      "url": "https://packages.dhis2.org/en/MAL_CS/1.0.1/DHIS2.39/MAL_CS_1.0.1_DHIS2.39.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "area": "MLAG",
-      "code": "MLAG",
-      "hidden": true,
-      "packages": [
-        {
-          "name": "MLAG",
-          "code": "MLAG",
-          "packageVersions": [
-            {
-              "version": "1.2.1",
-              "releaseDate": "2021-12-17",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.35",
-                      "metadataReference": "https://packages.dhis2.org/en/MLAG/1.2.1/DHIS2.35/MLAG_1.2.1_DHIS2.35.xlsx",
-                      "url": "https://packages.dhis2.org/en/MLAG/1.2.1/DHIS2.35/MLAG_1.2.1_DHIS2.35.zip"
-                    },
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/MLAG/1.2.1/DHIS2.36/MLAG_1.2.1_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/MLAG/1.2.1/DHIS2.36/MLAG_1.2.1_DHIS2.36.zip"
-                    },
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/MLAG/1.2.1/DHIS2.37/MLAG_1.2.1_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/MLAG/1.2.1/DHIS2.37/MLAG_1.2.1_DHIS2.37.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "area": "MLS0",
-      "code": "MLS0",
-      "hidden": true,
-      "packages": [
-        {
-          "name": "MLS0",
-          "code": "MLS0",
-          "packageVersions": [
-            {
-              "version": "1.0.0",
-              "releaseDate": "2021-12-17",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.35",
-                      "metadataReference": "https://packages.dhis2.org/en/MLS0/1.0.0/DHIS2.35/MLS0_1.0.0_DHIS2.35.xlsx",
-                      "url": "https://packages.dhis2.org/en/MLS0/1.0.0/DHIS2.35/MLS0_1.0.0_DHIS2.35.zip"
-                    },
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/MLS0/1.0.0/DHIS2.36/MLS0_1.0.0_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/MLS0/1.0.0/DHIS2.36/MLS0_1.0.0_DHIS2.36.zip"
-                    },
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/MLS0/1.0.0/DHIS2.37/MLS0_1.0.0_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/MLS0/1.0.0/DHIS2.37/MLS0_1.0.0_DHIS2.37.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "area": "Non-Communicable Diseases",
-      "code": "NCD",
-      "packages": [
-        {
-          "name": "Hypertension Registry",
-          "code": "NCD_HTN",
-          "packageVersions": [
-            {
-              "version": "1.0.0",
-              "releaseDate": "2022-11-21",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/NCD_HTN/1.0.0/DHIS2.36/NCD_HTN_1.0.0_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/NCD_HTN/1.0.0/DHIS2.36/NCD_HTN_1.0.0_DHIS2.36.zip"
-                    },
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/NCD_HTN/1.0.0/DHIS2.37/NCD_HTN_1.0.0_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/NCD_HTN/1.0.0/DHIS2.37/NCD_HTN_1.0.0_DHIS2.37.zip"
-                    },
-                    {
-                      "version": "2.38",
-                      "metadataReference": "https://packages.dhis2.org/en/NCD_HTN/1.0.0/DHIS2.38/NCD_HTN_1.0.0_DHIS2.38.xlsx",
-                      "url": "https://packages.dhis2.org/en/NCD_HTN/1.0.0/DHIS2.38/NCD_HTN_1.0.0_DHIS2.38.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Sensory function: Eye and Ear care",
-          "code": "NCD_SF",
-          "packageVersions": [
-            {
-              "version": "1.0.0",
-              "releaseDate": "2023-03-21",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/NCD_SF/1.0.0/DHIS2.37/NCD_SF_1.0.0_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/NCD_SF/1.0.0/DHIS2.37/NCD_SF_1.0.0_DHIS2.37.zip"
-                    },
-                    {
-                      "version": "2.38",
-                      "metadataReference": "https://packages.dhis2.org/en/NCD_SF/1.0.0/DHIS2.38/NCD_SF_1.0.0_DHIS2.38.xlsx",
-                      "url": "https://packages.dhis2.org/en/NCD_SF/1.0.0/DHIS2.38/NCD_SF_1.0.0_DHIS2.38.zip"
-                    },
-                    {
-                      "version": "2.39",
-                      "metadataReference": "https://packages.dhis2.org/en/NCD_SF/1.0.0/DHIS2.39/NCD_SF_1.0.0_DHIS2.39.xlsx",
-                      "url": "https://packages.dhis2.org/en/NCD_SF/1.0.0/DHIS2.39/NCD_SF_1.0.0_DHIS2.39.zip"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "version": "1.0.1",
-              "releaseDate": "2023-04-26",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.38",
-                      "metadataReference": "https://packages.dhis2.org/en/NCD_SF/1.0.1/DHIS2.38/NCD_SF_1.0.1_DHIS2.38.xlsx",
-                      "url": "https://packages.dhis2.org/en/NCD_SF/1.0.1/DHIS2.38/NCD_SF_1.0.1_DHIS2.38.zip"
-                    },
-                    {
-                      "version": "2.39",
-                      "metadataReference": "https://packages.dhis2.org/en/NCD_SF/1.0.1/DHIS2.39/NCD_SF_1.0.1_DHIS2.39.xlsx",
-                      "url": "https://packages.dhis2.org/en/NCD_SF/1.0.1/DHIS2.39/NCD_SF_1.0.1_DHIS2.39.zip"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "version": "1.0.2",
-              "releaseDate": "2023-05-29",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.38",
-                      "metadataReference": "https://packages.dhis2.org/en/NCD_SF/1.0.2/DHIS2.38/NCD_SF_1.0.2_DHIS2.38.xlsx",
-                      "url": "https://packages.dhis2.org/en/NCD_SF/1.0.2/DHIS2.38/NCD_SF_1.0.2_DHIS2.38.zip"
-                    },
-                    {
-                      "version": "2.39",
-                      "metadataReference": "https://packages.dhis2.org/en/NCD_SF/1.0.2/DHIS2.39/NCD_SF_1.0.2_DHIS2.39.xlsx",
-                      "url": "https://packages.dhis2.org/en/NCD_SF/1.0.2/DHIS2.39/NCD_SF_1.0.2_DHIS2.39.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "area": "Nutrition",
-      "code": "NUTR",
-      "packages": [
-        {
-          "name": "NUTR",
-          "code": "NUTR",
-          "hidden": true,
-          "packageVersions": [
-            {
-              "version": "1.0.0",
-              "releaseDate": "2021-12-16",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.35",
-                      "metadataReference": "https://packages.dhis2.org/en/NUTR/1.0.0/DHIS2.35/NUTR_1.0.0_DHIS2.35.xlsx",
-                      "url": "https://packages.dhis2.org/en/NUTR/1.0.0/DHIS2.35/NUTR_1.0.0_DHIS2.35.zip"
-                    },
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/NUTR/1.0.0/DHIS2.36/NUTR_1.0.0_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/NUTR/1.0.0/DHIS2.36/NUTR_1.0.0_DHIS2.36.zip"
-                    },
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/NUTR/1.0.0/DHIS2.37/NUTR_1.0.0_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/NUTR/1.0.0/DHIS2.37/NUTR_1.0.0_DHIS2.37.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Nutrition (aggregate)",
-          "code": "NUTR_AGG",
-          "packageVersions": [
-            {
-              "version": "1.0.0",
-              "releaseDate": "2022-11-02",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/NUTR_AGG/1.0.0/DHIS2.36/NUTR_AGG_1.0.0_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/NUTR_AGG/1.0.0/DHIS2.36/NUTR_AGG_1.0.0_DHIS2.36.zip"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "version": "1.0.1",
-              "releaseDate": "2022-11-04",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/NUTR_AGG/1.0.1/DHIS2.36/NUTR_AGG_1.0.1_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/NUTR_AGG/1.0.1/DHIS2.36/NUTR_AGG_1.0.1_DHIS2.36.zip"
-                    },
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/NUTR_AGG/1.0.1/DHIS2.37/NUTR_AGG_1.0.1_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/NUTR_AGG/1.0.1/DHIS2.37/NUTR_AGG_1.0.1_DHIS2.37.zip"
-                    },
-                    {
-                      "version": "2.38",
-                      "metadataReference": "https://packages.dhis2.org/en/NUTR_AGG/1.0.1/DHIS2.38/NUTR_AGG_1.0.1_DHIS2.38.xlsx",
-                      "url": "https://packages.dhis2.org/en/NUTR_AGG/1.0.1/DHIS2.38/NUTR_AGG_1.0.1_DHIS2.38.zip"
-                    },
-                    {
-                      "version": "2.39",
-                      "metadataReference": "https://packages.dhis2.org/en/NUTR_AGG/1.0.1/DHIS2.39/NUTR_AGG_1.0.1_DHIS2.39.xlsx",
-                      "url": "https://packages.dhis2.org/en/NUTR_AGG/1.0.1/DHIS2.39/NUTR_AGG_1.0.1_DHIS2.39.zip"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "version": "1.0.2",
-              "releaseDate": "2023-03-01",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/NUTR_AGG/1.0.2/DHIS2.37/NUTR_AGG_1.0.2_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/NUTR_AGG/1.0.2/DHIS2.37/NUTR_AGG_1.0.2_DHIS2.37.zip"
-                    },
-                    {
-                      "version": "2.38",
-                      "metadataReference": "https://packages.dhis2.org/en/NUTR_AGG/1.0.2/DHIS2.38/NUTR_AGG_1.0.2_DHIS2.38.xlsx",
-                      "url": "https://packages.dhis2.org/en/NUTR_AGG/1.0.2/DHIS2.38/NUTR_AGG_1.0.2_DHIS2.38.zip"
-                    },
-                    {
-                      "version": "2.39",
-                      "metadataReference": "https://packages.dhis2.org/en/NUTR_AGG/1.0.2/DHIS2.39/NUTR_AGG_1.0.2_DHIS2.39.xlsx",
-                      "url": "https://packages.dhis2.org/en/NUTR_AGG/1.0.2/DHIS2.39/NUTR_AGG_1.0.2_DHIS2.39.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "area": "Rehabilitation",
-      "code": "REHAB",
-      "packages": [
-        {
-          "name": "Rehabilitation (aggregate)",
-          "code": "REHAB_AGG",
-          "packageVersions": [
-            {
-              "version": "1.1.0",
-              "releaseDate": "2023-03-07",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/REHAB_AGG/1.1.0/DHIS2.37/REHAB_AGG_1.1.0_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/REHAB_AGG/1.1.0/DHIS2.37/REHAB_AGG_1.1.0_DHIS2.37.zip"
-                    },
-                    {
-                      "version": "2.38",
-                      "metadataReference": "https://packages.dhis2.org/en/REHAB_AGG/1.1.0/DHIS2.38/REHAB_AGG_1.1.0_DHIS2.38.xlsx",
-                      "url": "https://packages.dhis2.org/en/REHAB_AGG/1.1.0/DHIS2.38/REHAB_AGG_1.1.0_DHIS2.38.zip"
-                    },
-                    {
-                      "version": "2.39",
-                      "metadataReference": "https://packages.dhis2.org/en/REHAB_AGG/1.1.0/DHIS2.39/REHAB_AGG_1.1.0_DHIS2.39.xlsx",
-                      "url": "https://packages.dhis2.org/en/REHAB_AGG/1.1.0/DHIS2.39/REHAB_AGG_1.1.0_DHIS2.39.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "area": "RHAG",
-      "code": "RHAG",
-      "hidden": true,
-      "packages": [
-        {
-          "name": "RHAG",
-          "code": "RHAG",
-          "packageVersions": [
-            {
-              "version": "1.0.0",
-              "releaseDate": "2022-02-22",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.35",
-                      "metadataReference": "https://packages.dhis2.org/en/RHAG/1.0.0/DHIS2.35/RHAG00_1.0.0_DHIS2.35.xlsx",
-                      "url": "https://packages.dhis2.org/en/RHAG/1.0.0/DHIS2.35/RHAG00_1.0.0_DHIS2.35.zip"
-                    },
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/RHAG/1.0.0/DHIS2.36/RHAG00_1.0.0_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/RHAG/1.0.0/DHIS2.36/RHAG00_1.0.0_DHIS2.36.zip"
-                    },
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/RHAG/1.0.0/DHIS2.37/RHAG00_1.0.0_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/RHAG/1.0.0/DHIS2.37/RHAG00_1.0.0_DHIS2.37.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "area": "Reproductive, Maternal, Newborn, Child and Adolescent Health",
-      "code": "RMNCAH",
-      "packages": [
-        {
-          "name": "Antenatal Care Registry",
-          "code": "RMNCAH_ANC",
-          "packageVersions": [
-            {
-              "version": "1.0.0",
-              "releaseDate": "2023-03-20",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/RMNCAH_ANC/1.0.0/DHIS2.37/RMNCAH_ANC_1.0.0_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/RMNCAH_ANC/1.0.0/DHIS2.37/RMNCAH_ANC_1.0.0_DHIS2.37.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "area": "RMS0",
-      "code": "RMS0",
-      "hidden": true,
-      "packages": [
-        {
-          "name": "RMS0",
-          "code": "RMS0",
-          "packageVersions": [
-            {
-              "version": "1.0.0",
-              "releaseDate": "2021-12-16",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.35",
-                      "metadataReference": "https://packages.dhis2.org/en/RMS0/1.0.0/DHIS2.35/RMS0_1.0.0_DHIS2.35.xlsx",
-                      "url": "https://packages.dhis2.org/en/RMS0/1.0.0/DHIS2.35/RMS0_1.0.0_DHIS2.35.zip"
-                    },
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/RMS0/1.0.0/DHIS2.36/RMS0_1.0.0_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/RMS0/1.0.0/DHIS2.36/RMS0_1.0.0_DHIS2.36.zip"
-                    },
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/RMS0/1.0.0/DHIS2.37/RMS0_1.0.0_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/RMS0/1.0.0/DHIS2.37/RMS0_1.0.0_DHIS2.37.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "area": "TBAG",
-      "code": "TBAG",
-      "hidden": true,
-      "packages": [
-        {
-          "name": "TBAG",
-          "code": "TBAG",
-          "packageVersions": [
-            {
-              "version": "1.3.0",
-              "releaseDate": "2021-12-17",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.35",
-                      "metadataReference": "https://packages.dhis2.org/en/TBAG/1.3.0/DHIS2.35/TBAG_1.3.0_DHIS2.35.xlsx",
-                      "url": "https://packages.dhis2.org/en/TBAG/1.3.0/DHIS2.35/TBAG_1.3.0_DHIS2.35.zip"
-                    },
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/TBAG/1.3.0/DHIS2.36/TBAG_1.3.0_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/TBAG/1.3.0/DHIS2.36/TBAG_1.3.0_DHIS2.36.zip"
-                    },
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/TBAG/1.3.0/DHIS2.37/TBAG_1.3.0_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/TBAG/1.3.0/DHIS2.37/TBAG_1.3.0_DHIS2.37.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "area": "TBCS",
-      "code": "TBCS",
-      "hidden": true,
-      "packages": [
-        {
-          "name": "TBCS",
-          "code": "TBCS",
-          "packageVersions": [
-            {
-              "version": "1.0.1",
-              "releaseDate": "2022-01-24",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.35",
-                      "metadataReference": "https://packages.dhis2.org/en/TBCS/1.0.1/DHIS2.35/TBCS_1.0.1_DHIS2.35.xlsx",
-                      "url": "https://packages.dhis2.org/en/TBCS/1.0.1/DHIS2.35/TBCS_1.0.1_DHIS2.35.zip"
-                    },
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/TBCS/1.0.1/DHIS2.36/TBCS_1.0.1_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/TBCS/1.0.1/DHIS2.36/TBCS_1.0.1_DHIS2.36.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "area": "TBDR",
-      "code": "TBDR",
-      "hidden": true,
-      "packages": [
-        {
-          "name": "TBDR",
-          "code": "TBDR",
-          "packageVersions": [
-            {
-              "version": "1.0.1",
-              "releaseDate": "2022-01-24",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.35",
-                      "metadataReference": "https://packages.dhis2.org/en/TBDR/1.0.1/DHIS2.35/TBDR_1.0.1_DHIS2.35.xlsx",
-                      "url": "https://packages.dhis2.org/en/TBDR/1.0.1/DHIS2.35/TBDR_1.0.1_DHIS2.35.zip"
-                    },
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/TBDR/1.0.1/DHIS2.36/TBDR_1.0.1_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/TBDR/1.0.1/DHIS2.36/TBDR_1.0.1_DHIS2.36.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "area": "Tuberculosis",
-      "code": "TB",
-      "packages": [
-        {
-          "name": "TB Aggregate",
-          "code": "TB_AGG",
-          "packageVersions": [
-            {
-              "version": "1.4.0",
-              "releaseDate": "2022-09-16",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/TB_AGG/1.4.0/DHIS2.36/TB_AGG_1.4.0_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/TB_AGG/1.4.0/DHIS2.36/TB_AGG_1.4.0_DHIS2.36.zip"
-                    },
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/TB_AGG/1.4.0/DHIS2.37/TB_AGG_1.4.0_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/TB_AGG/1.4.0/DHIS2.37/TB_AGG_1.4.0_DHIS2.37.zip"
-                    },
-                    {
-                      "version": "2.38",
-                      "metadataReference": "https://packages.dhis2.org/en/TB_AGG/1.4.0/DHIS2.38/TB_AGG_1.4.0_DHIS2.38.xlsx",
-                      "url": "https://packages.dhis2.org/en/TB_AGG/1.4.0/DHIS2.38/TB_AGG_1.4.0_DHIS2.38.zip"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "version": "1.4.1",
-              "releaseDate": "2022-10-24",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/TB_AGG/1.4.1/DHIS2.36/TB_AGG_1.4.1_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/TB_AGG/1.4.1/DHIS2.36/TB_AGG_1.4.1_DHIS2.36.zip"
-                    },
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/TB_AGG/1.4.1/DHIS2.37/TB_AGG_1.4.1_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/TB_AGG/1.4.1/DHIS2.37/TB_AGG_1.4.1_DHIS2.37.zip"
-                    },
-                    {
-                      "version": "2.38",
-                      "metadataReference": "https://packages.dhis2.org/en/TB_AGG/1.4.1/DHIS2.38/TB_AGG_1.4.1_DHIS2.38.xlsx",
-                      "url": "https://packages.dhis2.org/en/TB_AGG/1.4.1/DHIS2.38/TB_AGG_1.4.1_DHIS2.38.zip"
-                    },
-                    {
-                      "version": "2.39",
-                      "metadataReference": "https://packages.dhis2.org/en/TB_AGG/1.4.1/DHIS2.39/TB_AGG_1.4.1_DHIS2.39.xlsx",
-                      "url": "https://packages.dhis2.org/en/TB_AGG/1.4.1/DHIS2.39/TB_AGG_1.4.1_DHIS2.39.zip"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "version": "2.38",
-              "hidden": true,
-              "releaseDate": "2022-09-16",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.38",
-                      "metadataReference": "https://packages.dhis2.org/en/TB_AGG/2.38/DHIS2.38/TB_AGG_2.38_DHIS2.38.xlsx",
-                      "url": "https://packages.dhis2.org/en/TB_AGG/2.38/DHIS2.38/TB_AGG_2.38_DHIS2.38.zip"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "version": "7.0.0",
-              "releaseDate": "2022-10-20",
-              "hidden": true,
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/TB_AGG/7.0.0/DHIS2.36/TB_AGG_7.0.0_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/TB_AGG/7.0.0/DHIS2.36/TB_AGG_7.0.0_DHIS2.36.zip"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "version": "1.5.0",
-              "releaseDate": "2023-07-13",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.40",
-                      "metadataReference": "https://packages.dhis2.org/en/TB_AGG/1.5.0/DHIS2.40/TB_AGG_COMPLETE_1.5.0_DHIS2.40.xlsx",
-                      "url": "https://packages.dhis2.org/en/TB_AGG/1.5.0/DHIS2.40/TB_AGG_1.5.0_DHIS2.40.zip"
-                    },
-                    {
-                      "version": "2.39",
-                      "metadataReference": "https://packages.dhis2.org/en/TB_AGG/1.5.0/DHIS2.39/TB_AGG_COMPLETE_1.5.0_DHIS2.39.xlsx",
-                      "url": "https://packages.dhis2.org/en/TB_AGG/1.5.0/DHIS2.39/TB_AGG_1.5.0_DHIS2.39.zip"
-                    },
-                    {
-                      "version": "2.38",
-                      "metadataReference": "https://packages.dhis2.org/en/TB_AGG/1.5.0/DHIS2.38/TB_AGG_COMPLETE_1.5.0_DHIS2.38.xlsx",
-                      "url": "https://packages.dhis2.org/en/TB_AGG/1.5.0/DHIS2.38/TB_AGG_1.5.0_DHIS2.38.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "TB Case Surveillance",
-          "code": "TB_CS",
-          "packageVersions": [
-            {
-              "version": "1.0.1",
-              "releaseDate": "2022-11-11",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.35",
-                      "metadataReference": "https://packages.dhis2.org/en/TB_CS/1.0.1/DHIS2.35/TBCS_1.0.1_DHIS2.35.xlsx",
-                      "url": "https://packages.dhis2.org/en/TB_CS/1.0.1/DHIS2.35/TBCS_1.0.1_DHIS2.35.zip"
-                    },
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/TB_CS/1.0.1/DHIS2.36/TBCS_1.0.1_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/TB_CS/1.0.1/DHIS2.36/TBCS_1.0.1_DHIS2.36.zip"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "version": "2.0.0",
-              "releaseDate": "2022-09-16",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/TB_CS/2.0.0/DHIS2.36/TB_CS_2.0.0_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/TB_CS/2.0.0/DHIS2.36/TB_CS_2.0.0_DHIS2.36.zip"
-                    },
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/TB_CS/2.0.0/DHIS2.37/TB_CS_2.0.0_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/TB_CS/2.0.0/DHIS2.37/TB_CS_2.0.0_DHIS2.37.zip"
-                    },
-                    {
-                      "version": "2.38",
-                      "metadataReference": "https://packages.dhis2.org/en/TB_CS/2.0.0/DHIS2.38/TB_CS_2.0.0_DHIS2.38.xlsx",
-                      "url": "https://packages.dhis2.org/en/TB_CS/2.0.0/DHIS2.38/TB_CS_2.0.0_DHIS2.38.zip"
-                    },
-                    {
-                      "version": "2.39",
-                      "metadataReference": "https://packages.dhis2.org/en/TB_CS/2.0.0/DHIS2.39/TB_CS_2.0.0_DHIS2.39.xlsx",
-                      "url": "https://packages.dhis2.org/en/TB_CS/2.0.0/DHIS2.39/TB_CS_2.0.0_DHIS2.39.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Anti-Tuberculosis Drug Resistance Survey (DRS)",
-          "code": "TB_DRS",
-          "packageVersions": [
-            {
-              "version": "1.0.1",
-              "releaseDate": "2022-11-02",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/TB_DRS/1.0.1/DHIS2.36/TB_DRS_1.0.1_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/TB_DRS/1.0.1/DHIS2.36/TB_DRS_1.0.1_DHIS2.36.zip"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "version": "1.0.2",
-              "releaseDate": "2023-07-13",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.38.4",
-                      "metadataReference": "https://packages.dhis2.org/en/TB_DRS/1.0.2/DHIS2.38/TB_DRS_COMPLETE_1.0.2_DHIS2.38.xlsx",
-                      "url": "https://packages.dhis2.org/en/TB_DRS/1.0.2/DHIS2.38/TB_DRS_1.0.2_DHIS2.38.zip"
-                    },
-                    {
-                      "version": "2.39.2",
-                      "metadataReference": "https://packages.dhis2.org/en/TB_DRS/1.0.2/DHIS2.39/TB_DRS_COMPLETE_1.0.2_DHIS2.39.xlsx",
-                      "url": "https://packages.dhis2.org/en/TB_DRS/1.0.2/DHIS2.39/TB_DRS_1.0.2_DHIS2.39.zip"
-                    },
-                    {
-                      "version": "2.40.0",
-                      "metadataReference": "https://packages.dhis2.org/en/TB_DRS/1.0.2/DHIS2.40/TB_DRS_COMPLETE_1.0.2_DHIS2.40.xlsx",
-                      "url": "https://packages.dhis2.org/en/TB_DRS/1.0.2/DHIS2.40/TB_DRS_1.0.2_DHIS2.40.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "TB - COVID-19 Impact Assessment",
-          "code": "TB_IMPAX",
-          "packageVersions": [
-            {
-              "version": "1.0.0",
-              "releaseDate": "2022-09-13",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/TB_IMPAX/1.0.0/DHIS2.36/TB_IMPAX_1.0.0_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/TB_IMPAX/1.0.0/DHIS2.36/TB_IMPAX_1.0.0_DHIS2.36.zip"
-                    },
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/TB_IMPAX/1.0.0/DHIS2.37/TB_IMPAX_1.0.0_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/TB_IMPAX/1.0.0/DHIS2.37/TB_IMPAX_1.0.0_DHIS2.37.zip"
-                    },
-                    {
-                      "version": "2.38",
-                      "metadataReference": "https://packages.dhis2.org/en/TB_IMPAX/1.0.0/DHIS2.38/TB_IMPAX_1.0.0_DHIS2.38.xlsx",
-                      "url": "https://packages.dhis2.org/en/TB_IMPAX/1.0.0/DHIS2.38/TB_IMPAX_1.0.0_DHIS2.38.zip"
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "version": "1.0.1",
-              "releaseDate": "2022-10-24",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/TB_IMPAX/1.0.1/DHIS2.36/TB_IMPAX_1.0.1_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/TB_IMPAX/1.0.1/DHIS2.36/TB_IMPAX_1.0.1_DHIS2.36.zip"
-                    },
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/TB_IMPAX/1.0.1/DHIS2.37/TB_IMPAX_1.0.1_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/TB_IMPAX/1.0.1/DHIS2.37/TB_IMPAX_1.0.1_DHIS2.37.zip"
-                    },
-                    {
-                      "version": "2.38",
-                      "metadataReference": "https://packages.dhis2.org/en/TB_IMPAX/1.0.1/DHIS2.38/TB_IMPAX_1.0.1_DHIS2.38.xlsx",
-                      "url": "https://packages.dhis2.org/en/TB_IMPAX/1.0.1/DHIS2.38/TB_IMPAX_1.0.1_DHIS2.38.zip"
-                    },
-                    {
-                      "version": "2.39",
-                      "metadataReference": "https://packages.dhis2.org/en/TB_IMPAX/1.0.1/DHIS2.39/TB_IMPAX_1.0.1_DHIS2.39.xlsx",
-                      "url": "https://packages.dhis2.org/en/TB_IMPAX/1.0.1/DHIS2.39/TB_IMPAX_1.0.1_DHIS2.39.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "area": "VE00",
-      "code": "VE00",
-      "hidden": true,
-      "packages": [
-        {
-          "name": "VE00",
-          "code": "VE00",
-          "packageVersions": [
-            {
-              "version": "1.1.0",
-              "releaseDate": "2022-01-25",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.35",
-                      "metadataReference": "https://packages.dhis2.org/en/VE00/1.1.0/DHIS2.35/VE00_1.1.0_DHIS2.35.xlsx",
-                      "url": "https://packages.dhis2.org/en/VE00/1.1.0/DHIS2.35/VE00_1.1.0_DHIS2.35.zip"
-                    },
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/VE00/1.1.0/DHIS2.36/VE00_1.1.0_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/VE00/1.1.0/DHIS2.36/VE00_1.1.0_DHIS2.36.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "area": "VPD",
-      "code": "VPD",
-      "hidden": true,
-      "packages": [
-        {
-          "name": "Vaccine Preventable Disease Case Surveillance",
-          "code": "VPD_CS",
-          "packageVersions": [
-            {
-              "version": "1.1.0",
-              "releaseDate": "2022-11-09",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/en/VPD_CS/1.1.0/DHIS2.36/VPD_CS_1.1.0_DHIS2.36.xlsx",
-                      "url": "https://packages.dhis2.org/en/VPD_CS/1.1.0/DHIS2.36/VPD_CS_1.1.0_DHIS2.36.zip"
-                    },
-                    {
-                      "version": "2.37",
-                      "metadataReference": "https://packages.dhis2.org/en/VPD_CS/1.1.0/DHIS2.37/VPD_CS_1.1.0_DHIS2.37.xlsx",
-                      "url": "https://packages.dhis2.org/en/VPD_CS/1.1.0/DHIS2.37/VPD_CS_1.1.0_DHIS2.37.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "area": "HICS",
-      "code": "HICS",
-      "hidden": true,
-      "packages": [
-        {
-          "name": "HICS",
-          "code": "HICS",
-          "packageVersions": [
-            {
-              "version": "0.1.0",
-              "releaseDate": "2021-12-16",
-              "translations": [
-                {
-                  "language": "fr",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.34",
-                      "metadataReference": "https://packages.dhis2.org/fr/HICS/0.1.0/DHIS2.34/HICS00_0.1.0_DHIS2.34-fr.xlsx",
-                      "url": "https://packages.dhis2.org/fr/HICS/0.1.0/DHIS2.34/HICS00_0.1.0_DHIS2.34-fr.zip"
-                    },
-                    {
-                      "version": "2.35",
-                      "metadataReference": "https://packages.dhis2.org/fr/HICS/0.1.0/DHIS2.35/HICS00_0.1.0_DHIS2.35-fr.xlsx",
-                      "url": "https://packages.dhis2.org/fr/HICS/0.1.0/DHIS2.35/HICS00_0.1.0_DHIS2.35-fr.zip"
-                    },
-                    {
-                      "version": "2.36",
-                      "metadataReference": "https://packages.dhis2.org/fr/HICS/0.1.0/DHIS2.36/HICS00_0.1.0_DHIS2.36-fr.xlsx",
-                      "url": "https://packages.dhis2.org/fr/HICS/0.1.0/DHIS2.36/HICS00_0.1.0_DHIS2.36-fr.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "area": "Integrated disease surveillance",
-      "code": "IDS",
-      "packages": [
-        {
-          "name": "Vaccine Preventable Disease Case Surveillance",
-          "code": "VPD_CS",
-          "packageVersions": [
-            {
-              "version": "1.1.1",
-              "releaseDate": "2023-08-28",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.39",
-                      "metadataReference": "https://packages.dhis2.org/en/VPD_CS/1.1.1/DHIS2.39/VPD_CS_COMPLETE_1.1.1_DHIS2.39.xlsx",
-                      "url": "https://packages.dhis2.org/en/VPD_CS/1.1.1/DHIS2.39/VPD_CS_1.1.1_DHIS2.39.zip"
-                    },
-                    {
-                      "version": "2.38",
-                      "metadataReference": "https://packages.dhis2.org/en/VPD_CS/1.1.1/DHIS2.38/VPD_CS_COMPLETE_1.1.1_DHIS2.38.xlsx",
-                      "url": "https://packages.dhis2.org/en/VPD_CS/1.1.1/DHIS2.38/VPD_CS_1.1.1_DHIS2.38.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "area": "Health Facility Profile",
-      "hidden": true,
-      "code": "HFP",
-      "packages": [
-        {
-          "name": "Health Facility Profile",
-          "code": "HFP",
-          "packageVersions": [
-            {
-              "version": "0.1.0",
-              "releaseDate": "2023-09-04",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.38",
-                      "metadataReference": "https://packages.dhis2.org/en/HFP/0.1.0/DHIS2.38/HFP_COMPLETE_0.1.0_DHIS2.38.xlsx",
-                      "url": "https://packages.dhis2.org/en/HFP/0.1.0/DHIS2.38/HFP_0.1.0_DHIS2.38.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    }
-  ]
-}
+    "areas": [
+      {
+        "area": "COVID-19",
+        "code": "C19",
+        "packages": [
+          {
+            "name": "COVID-19 Surveillance (aggregate)",
+            "code": "C19_AGG",
+            "packageVersions": [
+              {
+                "version": "2.0.0",
+                "releaseDate": "2022-11-07",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/C19_AGG/2.0.0/DHIS2.36/C19_AGG_2.0.0_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/C19_AGG/2.0.0/DHIS2.36/C19_AGG_2.0.0_DHIS2.36.zip"
+                      },
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/C19_AGG/2.0.0/DHIS2.37/C19_AGG_2.0.0_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/C19_AGG/2.0.0/DHIS2.37/C19_AGG_2.0.0_DHIS2.37.zip"
+                      },
+                      {
+                        "version": "2.38",
+                        "metadataReference": "https://packages.dhis2.org/en/C19_AGG/2.0.0/DHIS2.38/C19_AGG_2.0.0_DHIS2.38.xlsx",
+                        "url": "https://packages.dhis2.org/en/C19_AGG/2.0.0/DHIS2.38/C19_AGG_2.0.0_DHIS2.38.zip"
+                      },
+                      {
+                        "version": "2.39",
+                        "metadataReference": "https://packages.dhis2.org/en/C19_AGG/2.0.0/DHIS2.39/C19_AGG_2.0.0_DHIS2.39.xlsx",
+                        "url": "https://packages.dhis2.org/en/C19_AGG/2.0.0/DHIS2.39/C19_AGG_2.0.0_DHIS2.39.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "COVID-19 Case Surveillance and Contact Tracing",
+            "code": "C19_CS",
+            "packageVersions": [
+              {
+                "version": "1.0.2",
+                "releaseDate": "2022-09-19",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/C19_CS/1.0.2/DHIS2.36/C19_CS_1.0.2_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/C19_CS/1.0.2/DHIS2.36/C19_CS_1.0.2_DHIS2.36.zip"
+                      },
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/C19_CS/1.0.2/DHIS2.37/C19_CS_1.0.2_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/C19_CS/1.0.2/DHIS2.37/C19_CS_1.0.2_DHIS2.37.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "COVID-19 Points of Entry",
+            "code": "C19_POE",
+            "packageVersions": [
+              {
+                "version": "1.0.2",
+                "releaseDate": "2022-09-19",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/C19_POE/1.0.2/DHIS2.36/C19_POE_1.0.2_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/C19_POE/1.0.2/DHIS2.36/C19_POE_1.0.2_DHIS2.36.zip"
+                      },
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/C19_POE/1.0.2/DHIS2.37/C19_POE_1.0.2_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/C19_POE/1.0.2/DHIS2.37/C19_POE_1.0.2_DHIS2.37.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "area": "Community Health",
+        "code": "CHIS",
+        "packages": [
+          {
+            "name": "Community Health Information System (aggregate)",
+            "code": "CHIS_AGG",
+            "packageVersions": [
+              {
+                "version": "1.0.0",
+                "releaseDate": "2022-11-02",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/CHIS_AGG/1.0.0/DHIS2.36/CHIS_AGG_1.0.0_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/CHIS_AGG/1.0.0/DHIS2.36/CHIS_AGG_1.0.0_DHIS2.36.zip"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "version": "1.0.1",
+                "releaseDate": "2023-02-07",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/CHIS_AGG/1.0.1/DHIS2.37/CHIS_AGG_1.0.1_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/CHIS_AGG/1.0.1/DHIS2.37/CHIS_AGG_1.0.1_DHIS2.37.zip"
+                      },
+                      {
+                        "version": "2.38",
+                        "metadataReference": "https://packages.dhis2.org/en/CHIS_AGG/1.0.1/DHIS2.38/CHIS_AGG_1.0.1_DHIS2.38.xlsx",
+                        "url": "https://packages.dhis2.org/en/CHIS_AGG/1.0.1/DHIS2.38/CHIS_AGG_1.0.1_DHIS2.38.zip"
+                      },
+                      {
+                        "version": "2.39",
+                        "metadataReference": "https://packages.dhis2.org/en/CHIS_AGG/1.0.1/DHIS2.39/CHIS_AGG_1.0.1_DHIS2.39.xlsx",
+                        "url": "https://packages.dhis2.org/en/CHIS_AGG/1.0.1/DHIS2.39/CHIS_AGG_1.0.1_DHIS2.39.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "area": "Civil Registration & Vital Statistics/Mortality",
+        "code": "CRVS",
+        "packages": [
+          {
+            "name": "Cause of Death - SMoL (tracker)",
+            "code": "CRVS_COD",
+            "packageVersions": [
+              {
+                "version": "1.2.1",
+                "releaseDate": "2022-11-09",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/CRVS_COD/1.2.1/DHIS2.36/CRVS_COD_1.2.1_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/CRVS_COD/1.2.1/DHIS2.36/CRVS_COD_1.2.1_DHIS2.36.zip"
+                      },
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/CRVS_COD/1.2.1/DHIS2.37/CRVS_COD_1.2.1_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/CRVS_COD/1.2.1/DHIS2.37/CRVS_COD_1.2.1_DHIS2.37.zip"
+                      }
+                    ]
+                  },
+                  {
+                    "language": "fr",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/fr/CRVS_COD/1.2.1/DHIS2.36/CRVS_COD_1.2.1_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/fr/CRVS_COD/1.2.1/DHIS2.36/CRVS_COD_1.2.1_DHIS2.36.zip"
+                      },
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/fr/CRVS_COD/1.2.1/DHIS2.37/CRVS_COD_1.2.1_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/fr/CRVS_COD/1.2.1/DHIS2.37/CRVS_COD_1.2.1_DHIS2.37.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Rapid Mortality Surveillance",
+            "code": "CRVS_RMSE",
+            "packageVersions": [
+              {
+                "version": "1.0.0",
+                "releaseDate": "2022-11-02",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/CRVS_RMSE/1.0.0/DHIS2.36/CRVS_RMSE_1.0.0_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/CRVS_RMSE/1.0.0/DHIS2.36/CRVS_RMSE_1.0.0_DHIS2.36.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Vital Events Notification",
+            "code": "CRVS_VE",
+            "packageVersions": [
+              {
+                "version": "1.1.0",
+                "releaseDate": "2022-11-09",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/CRVS_VE/1.1.0/DHIS2.36/CRVS_VE_1.1.0_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/CRVS_VE/1.1.0/DHIS2.36/CRVS_VE_1.1.0_DHIS2.36.zip"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "version": "1.1.1",
+                "releaseDate": "2023-01-03",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/CRVS_VE/1.1.1/DHIS2.37/CRVS_VE_1.1.1_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/CRVS_VE/1.1.1/DHIS2.37/CRVS_VE_1.1.1_DHIS2.37.zip"
+                      },
+                      {
+                        "version": "2.38",
+                        "metadataReference": "https://packages.dhis2.org/en/CRVS_VE/1.1.1/DHIS2.38/CRVS_VE_1.1.1_DHIS2.38.xlsx",
+                        "url": "https://packages.dhis2.org/en/CRVS_VE/1.1.1/DHIS2.38/CRVS_VE_1.1.1_DHIS2.38.zip"
+                      },
+                      {
+                        "version": "2.39",
+                        "metadataReference": "https://packages.dhis2.org/en/CRVS_VE/1.1.1/DHIS2.39/CRVS_VE_1.1.1_DHIS2.39.xlsx",
+                        "url": "https://packages.dhis2.org/en/CRVS_VE/1.1.1/DHIS2.39/CRVS_VE_1.1.1_DHIS2.39.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "area": "COVID-19 Vaccination",
+        "code": "CVC",
+        "packages": [
+          {
+            "name": "COVID-19 Vaccination (aggregate)",
+            "code": "CVC_AGG",
+            "packageVersions": [
+              {
+                "version": "1.1.0",
+                "releaseDate": "2023-02-24",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/CVC_AGG/1.1.0/DHIS2.37/CVC_AGG_1.1.0_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/CVC_AGG/1.1.0/DHIS2.37/CVC_AGG_1.1.0_DHIS2.37.zip"
+                      },
+                      {
+                        "version": "2.38",
+                        "metadataReference": "https://packages.dhis2.org/en/CVC_AGG/1.1.0/DHIS2.38/CVC_AGG_1.1.0_DHIS2.38.xlsx",
+                        "url": "https://packages.dhis2.org/en/CVC_AGG/1.1.0/DHIS2.38/CVC_AGG_1.1.0_DHIS2.38.zip"
+                      },
+                      {
+                        "version": "2.39",
+                        "metadataReference": "https://packages.dhis2.org/en/CVC_AGG/1.1.0/DHIS2.39/CVC_AGG_1.1.0_DHIS2.39.xlsx",
+                        "url": "https://packages.dhis2.org/en/CVC_AGG/1.1.0/DHIS2.39/CVC_AGG_1.1.0_DHIS2.39.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "COVID-19 Electronic Immunization Registry",
+            "code": "CVC_EIR",
+            "packageVersions": [
+              {
+                "version": "1.2.0",
+                "releaseDate": "2022-11-08",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/CVC_EIR/1.2.0/DHIS2.36/CVC_EIR_1.2.0_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/CVC_EIR/1.2.0/DHIS2.36/CVC_EIR_1.2.0_DHIS2.36.zip"
+                      },
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/CVC_EIR/1.2.0/DHIS2.37/CVC_EIR_1.2.0_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/CVC_EIR/1.2.0/DHIS2.37/CVC_EIR_1.2.0_DHIS2.37.zip"
+                      },
+                      {
+                        "version": "2.38",
+                        "metadataReference": "https://packages.dhis2.org/en/CVC_EIR/1.2.0/DHIS2.38/CVC_EIR_1.2.0_DHIS2.38.xlsx",
+                        "url": "https://packages.dhis2.org/en/CVC_EIR/1.2.0/DHIS2.38/CVC_EIR_1.2.0_DHIS2.38.zip"
+                      },
+                      {
+                        "version": "2.39",
+                        "metadataReference": "https://packages.dhis2.org/en/CVC_EIR/1.2.0/DHIS2.39/CVC_EIR_1.2.0_DHIS2.39.xlsx",
+                        "url": "https://packages.dhis2.org/en/CVC_EIR/1.2.0/DHIS2.39/CVC_EIR_1.2.0_DHIS2.39.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "area": "CVIR",
+        "code": "CVIR",
+        "hidden": true,
+        "packages": [
+          {
+            "name": "CVIR",
+            "code": "CVIR",
+            "packageVersions": [
+              {
+                "version": "1.2.0",
+                "releaseDate": "2022-01-19",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.35",
+                        "metadataReference": "https://packages.dhis2.org/en/CVIR/1.2.0/DHIS2.35/CVIR_1.2.0_DHIS2.35.xlsx",
+                        "url": "https://packages.dhis2.org/en/CVIR/1.2.0/DHIS2.35/CVIR_1.2.0_DHIS2.35.zip"
+                      },
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/CVIR/1.2.0/DHIS2.36/CVIR_1.2.0_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/CVIR/1.2.0/DHIS2.36/CVIR_1.2.0_DHIS2.36.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "area": "Entomology and Vector Control",
+        "code": "ENTO",
+        "packages": [
+          {
+            "name": "Breeding Sites Monitoring",
+            "code": "ENTO_BSM",
+            "packageVersions": [
+              {
+                "version": "1.0.0",
+                "releaseDate": "2022-11-09",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/ENTO_BSM/1.0.0/DHIS2.36/ENTO_BSM_1.0.0_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/ENTO_BSM/1.0.0/DHIS2.36/ENTO_BSM_1.0.0_DHIS2.36.zip"
+                      },
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/ENTO_BSM/1.0.0/DHIS2.37/ENTO_BSM_1.0.0_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/ENTO_BSM/1.0.0/DHIS2.37/ENTO_BSM_1.0.0_DHIS2.37.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Indoor Residual Spraying",
+            "code": "ENTO_IRS",
+            "packageVersions": [
+              {
+                "version": "1.0.0",
+                "releaseDate": "2022-11-11",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/ENTO_IRS/1.0.0/DHIS2.36/ENTO_IRS_1.0.0_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/ENTO_IRS/1.0.0/DHIS2.36/ENTO_IRS_1.0.0_DHIS2.36.zip"
+                      },
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/ENTO_IRS/1.0.0/DHIS2.37/ENTO_IRS_1.0.0_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/ENTO_IRS/1.0.0/DHIS2.37/ENTO_IRS_1.0.0_DHIS2.37.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Insecticide-Treated Nets",
+            "code": "ENTO_ITN",
+            "packageVersions": [
+              {
+                "version": "1.0.0",
+                "releaseDate": "2022-11-11",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/ENTO_ITN/1.0.0/DHIS2.36/ENTO_ITN_1.0.0_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/ENTO_ITN/1.0.0/DHIS2.36/ENTO_ITN_1.0.0_DHIS2.36.zip"
+                      },
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/ENTO_ITN/1.0.0/DHIS2.37/ENTO_ITN_1.0.0_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/ENTO_ITN/1.0.0/DHIS2.37/ENTO_ITN_1.0.0_DHIS2.37.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Vector Control - Insecticide Residual Spraying Campaign",
+            "code": "VC_IRS_CAMPAIGN",
+            "packageVersions": [
+              {
+                "version": "1.0.0",
+                "releaseDate": "2023-08-31",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.40",
+                        "metadataReference": "https://packages.dhis2.org/en/VC_IRS/1.0.0/DHIS2.40/VC_IRS_CAMPAIGN_1.0.0_DHIS2.40.xlsx",
+                        "url": "https://packages.dhis2.org/en/VC_IRS/1.0.0/DHIS2.40/VC_IRS_1.0.0_DHIS2.40.zip"
+                      },
+                      {
+                        "version": "2.39",
+                        "metadataReference": "https://packages.dhis2.org/en/VC_IRS/1.0.0/DHIS2.39/VC_IRS_CAMPAIGN_1.0.0_DHIS2.39.xlsx",
+                        "url": "https://packages.dhis2.org/en/VC_IRS/1.0.0/DHIS2.39/VC_IRS_1.0.0_DHIS2.39.zip"
+                      },
+                      {
+                        "version": "2.38",
+                        "metadataReference": "https://packages.dhis2.org/en/VC_IRS/1.0.0/DHIS2.38/VC_IRS_CAMPAIGN_1.0.0_DHIS2.38.xlsx",
+                        "url": "https://packages.dhis2.org/en/VC_IRS/1.0.0/DHIS2.38/VC_IRS_1.0.0_DHIS2.38.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Insecticide Treated Nets - Mass Campaign",
+            "code": "VC_ITN_MC",
+            "packageVersions": [
+              {
+                "version": "1.0.0",
+                "releaseDate": "2023-08-31",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.38",
+                        "metadataReference": "https://packages.dhis2.org/en/VC_ITN/1.0.0/DHIS2.38/VC_ITN_MC_1.0.0_DHIS2.38.xlsx",
+                        "url": "https://packages.dhis2.org/en/VC_ITN/1.0.0/DHIS2.38/VC_ITN_1.0.0_DHIS2.38.zip"
+                      },
+                      {
+                        "version": "2.39",
+                        "metadataReference": "https://packages.dhis2.org/en/VC_ITN/1.0.0/DHIS2.39/VC_ITN_MC_1.0.0_DHIS2.39.xlsx",
+                        "url": "https://packages.dhis2.org/en/VC_ITN/1.0.0/DHIS2.39/VC_ITN_1.0.0_DHIS2.39.zip"
+                      },
+                      {
+                        "version": "2.40",
+                        "metadataReference": "https://packages.dhis2.org/en/VC_ITN/1.0.0/DHIS2.40/VC_ITN_MC_1.0.0_DHIS2.40.xlsx",
+                        "url": "https://packages.dhis2.org/en/VC_ITN/1.0.0/DHIS2.40/VC_ITN_1.0.0_DHIS2.40.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "area": "Common Metadata Library",
+        "code": "GEN",
+        "packages": [
+          {
+            "name": "GEN_LIB",
+            "code": "GEN_LIB",
+            "packageVersions": [
+              {
+                "version": "1.0.0",
+                "releaseDate": "2022-07-05",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/GEN_LIB/1.0.0/DHIS2.36/GEN_LIB_1.0.0_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/GEN_LIB/1.0.0/DHIS2.36/GEN_LIB_1.0.0_DHIS2.36.zip"
+                      },
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/GEN_LIB/1.0.0/DHIS2.37/GEN_LIB_1.0.0_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/GEN_LIB/1.0.0/DHIS2.37/GEN_LIB_1.0.0_DHIS2.37.zip"
+                      },
+                      {
+                        "version": "2.38",
+                        "metadataReference": "https://packages.dhis2.org/en/GEN_LIB/1.0.0/DHIS2.38/GEN_LIB_1.0.0_DHIS2.38.xlsx",
+                        "url": "https://packages.dhis2.org/en/GEN_LIB/1.0.0/DHIS2.38/GEN_LIB_1.0.0_DHIS2.38.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "area": "GNRC",
+        "code": "GNRC",
+        "hidden": true,
+        "packages": [
+          {
+            "name": "GNRC",
+            "code": "GNRC",
+            "packageVersions": [
+              {
+                "version": "1.0.0",
+                "releaseDate": "2022-03-14",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.35",
+                        "metadataReference": "https://packages.dhis2.org/en/GNRC/1.0.0/DHIS2.35/GNRC_1.0.0_DHIS2.35.xlsx",
+                        "url": "https://packages.dhis2.org/en/GNRC/1.0.0/DHIS2.35/GNRC_1.0.0_DHIS2.35.zip"
+                      },
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/GNRC/1.0.0/DHIS2.36/GNRC_1.0.0_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/GNRC/1.0.0/DHIS2.36/GNRC_1.0.0_DHIS2.36.zip"
+                      },
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/GNRC/1.0.0/DHIS2.37/GNRC_1.0.0_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/GNRC/1.0.0/DHIS2.37/GNRC_1.0.0_DHIS2.37.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "area": "HFA",
+        "code": "HFA",
+        "hidden": true,
+        "packages": [
+          {
+            "name": "HFA",
+            "code": "HFA",
+            "packageVersions": [
+              {
+                "version": "0.0.0",
+                "releaseDate": "2023-04-21",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.38",
+                        "metadataReference": "https://packages.dhis2.org/en/HFA/0.0.0/DHIS2.38/HFA_0.0.0_DHIS2.38.xlsx",
+                        "url": "https://packages.dhis2.org/en/HFA/0.0.0/DHIS2.38/HFA_0.0.0_DHIS2.38.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "area": "HIV",
+        "code": "HIV",
+        "packages": [
+          {
+            "name": "HIV HMIS (agg)",
+            "code": "HIV_AGG",
+            "packageVersions": [
+              {
+                "version": "1.2.0",
+                "releaseDate": "2022-11-11",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/HIV_AGG/1.2.0/DHIS2.36/HIV_AGG_1.2.0_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/HIV_AGG/1.2.0/DHIS2.36/HIV_AGG_1.2.0_DHIS2.36.zip"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "version": "1.2.1",
+                "releaseDate": "2023-01-20",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/HIV_AGG/1.2.1/DHIS2.37/HIV_AGG_1.2.1_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/HIV_AGG/1.2.1/DHIS2.37/HIV_AGG_1.2.1_DHIS2.37.zip"
+                      },
+                      {
+                        "version": "2.38",
+                        "metadataReference": "https://packages.dhis2.org/en/HIV_AGG/1.2.1/DHIS2.38/HIV_AGG_1.2.1_DHIS2.38.xlsx",
+                        "url": "https://packages.dhis2.org/en/HIV_AGG/1.2.1/DHIS2.38/HIV_AGG_1.2.1_DHIS2.38.zip"
+                      },
+                      {
+                        "version": "2.39",
+                        "metadataReference": "https://packages.dhis2.org/en/HIV_AGG/1.2.1/DHIS2.39/HIV_AGG_1.2.1_DHIS2.39.xlsx",
+                        "url": "https://packages.dhis2.org/en/HIV_AGG/1.2.1/DHIS2.39/HIV_AGG_1.2.1_DHIS2.39.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "HIV Case Surveillance",
+            "code": "HICS",
+            "packageVersions": [
+              {
+                "version": "0.1.0",
+                "releaseDate": "2021-12-16",
+                "translations": [
+                  {
+                    "language": "fr",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.34",
+                        "metadataReference": "https://packages.dhis2.org/fr/HICS/0.1.0/DHIS2.34/HICS00_0.1.0_DHIS2.34-fr.xlsx",
+                        "url": "https://packages.dhis2.org/fr/HICS/0.1.0/DHIS2.34/HICS00_0.1.0_DHIS2.34-fr.zip"
+                      },
+                      {
+                        "version": "2.35",
+                        "metadataReference": "https://packages.dhis2.org/fr/HICS/0.1.0/DHIS2.35/HICS00_0.1.0_DHIS2.35-fr.xlsx",
+                        "url": "https://packages.dhis2.org/fr/HICS/0.1.0/DHIS2.35/HICS00_0.1.0_DHIS2.35-fr.zip"
+                      },
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/fr/HICS/0.1.0/DHIS2.36/HICS00_0.1.0_DHIS2.36-fr.xlsx",
+                        "url": "https://packages.dhis2.org/fr/HICS/0.1.0/DHIS2.36/HICS00_0.1.0_DHIS2.36-fr.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+
+        ]
+      },
+      {
+        "area": "Integrated Disease Surveillance",
+        "code": "IDS",
+        "packages": [
+          {
+            "name": "Acute Febrile Illness",
+            "code": "IDS_AFI",
+            "packageVersions": [
+              {
+                "version": "1.0.0",
+                "releaseDate": "2023-04-17",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.38",
+                        "metadataReference": "https://packages.dhis2.org/en/IDS_AFI/1.0.0/DHIS2.38/IDS_AFI_1.0.0_DHIS2.38.xlsx",
+                        "url": "https://packages.dhis2.org/en/IDS_AFI/1.0.0/DHIS2.38/IDS_AFI_1.0.0_DHIS2.38.zip"
+                      },
+                      {
+                        "version": "2.39",
+                        "metadataReference": "https://packages.dhis2.org/en/IDS_AFI/1.0.0/DHIS2.39/IDS_AFI_1.0.0_DHIS2.39.xlsx",
+                        "url": "https://packages.dhis2.org/en/IDS_AFI/1.0.0/DHIS2.39/IDS_AFI_1.0.0_DHIS2.39.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Integrated Disease Surveillance (aggregate)",
+            "code": "IDS_AGG",
+            "packageVersions": [
+              {
+                "version": "1.2.0",
+                "releaseDate": "2022-11-09",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/IDS_AGG/1.2.0/DHIS2.36/IDS_AGG_1.2.0_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/IDS_AGG/1.2.0/DHIS2.36/IDS_AGG_1.2.0_DHIS2.36.zip"
+                      },
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/IDS_AGG/1.2.0/DHIS2.37/IDS_AGG_1.2.0_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/IDS_AGG/1.2.0/DHIS2.37/IDS_AGG_1.2.0_DHIS2.37.zip"
+                      },
+                      {
+                        "version": "2.38",
+                        "metadataReference": "https://packages.dhis2.org/en/IDS_AGG/1.2.0/DHIS2.38/IDS_AGG_1.2.0_DHIS2.38.xlsx",
+                        "url": "https://packages.dhis2.org/en/IDS_AGG/1.2.0/DHIS2.38/IDS_AGG_1.2.0_DHIS2.38.zip"
+                      },
+                      {
+                        "version": "2.39",
+                        "metadataReference": "https://packages.dhis2.org/en/IDS_AGG/1.2.0/DHIS2.39/IDS_AGG_1.2.0_DHIS2.39.xlsx",
+                        "url": "https://packages.dhis2.org/en/IDS_AGG/1.2.0/DHIS2.39/IDS_AGG_1.2.0_DHIS2.39.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Vaccine Preventable Disease Case Surveillance",
+            "code": "VPD_CS",
+            "packageVersions": [
+              {
+                "version": "1.1.1",
+                "releaseDate": "2023-08-28",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.39",
+                        "metadataReference": "https://packages.dhis2.org/en/VPD_CS/1.1.1/DHIS2.39/VPD_CS_COMPLETE_1.1.1_DHIS2.39.xlsx",
+                        "url": "https://packages.dhis2.org/en/VPD_CS/1.1.1/DHIS2.39/VPD_CS_1.1.1_DHIS2.39.zip"
+                      },
+                      {
+                        "version": "2.38",
+                        "metadataReference": "https://packages.dhis2.org/en/VPD_CS/1.1.1/DHIS2.38/VPD_CS_COMPLETE_1.1.1_DHIS2.38.xlsx",
+                        "url": "https://packages.dhis2.org/en/VPD_CS/1.1.1/DHIS2.38/VPD_CS_1.1.1_DHIS2.38.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+
+        ]
+      },
+      {
+        "area": "Immunization",
+        "code": "IMM",
+        "packages": [
+          {
+            "name": "Adverse Events Following Immunization (AEFI)",
+            "code": "IMM_AEFI",
+            "packageVersions": [
+              {
+                "version": "1.1.0",
+                "releaseDate": "2022-11-21",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/IMM_AEFI/1.1.0/DHIS2.36/IMM_AEFI_1.1.0_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/IMM_AEFI/1.1.0/DHIS2.36/IMM_AEFI_1.1.0_DHIS2.36.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Immunization (EPI) Aggregate",
+            "code": "IMM_AGG",
+            "packageVersions": [
+              {
+                "version": "1.0.0",
+                "releaseDate": "2022-11-21",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/IMM_AGG/1.0.0/DHIS2.36/IMM_AGG_1.0.0_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/IMM_AGG/1.0.0/DHIS2.36/IMM_AGG_1.0.0_DHIS2.36.zip"
+                      },
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/IMM_AGG/1.0.0/DHIS2.37/IMM_AGG_1.0.0_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/IMM_AGG/1.0.0/DHIS2.37/IMM_AGG_1.0.0_DHIS2.37.zip"
+                      },
+                      {
+                        "version": "2.38",
+                        "metadataReference": "https://packages.dhis2.org/en/IMM_AGG/1.0.0/DHIS2.38/IMM_AGG_1.0.0_DHIS2.38.xlsx",
+                        "url": "https://packages.dhis2.org/en/IMM_AGG/1.0.0/DHIS2.38/IMM_AGG_1.0.0_DHIS2.38.zip"
+                      },
+                      {
+                        "version": "2.39",
+                        "metadataReference": "https://packages.dhis2.org/en/IMM_AGG/1.0.0/DHIS2.39/IMM_AGG_1.0.0_DHIS2.39.xlsx",
+                        "url": "https://packages.dhis2.org/en/IMM_AGG/1.0.0/DHIS2.39/IMM_AGG_1.0.0_DHIS2.39.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Electronic Immunization Registry (routine)",
+            "code": "IMM_EIR",
+            "packageVersions": [
+              {
+                "version": "1.1.0",
+                "releaseDate": "2022-11-21",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/IMM_EIR/1.1.0/DHIS2.36/IMM_EIR_1.1.0_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/IMM_EIR/1.1.0/DHIS2.36/IMM_EIR_1.1.0_DHIS2.36.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Immunization Triangulation Dashboard",
+            "code": "IMM_TRI",
+            "packageVersions": [
+              {
+                "version": "1.0.0",
+                "releaseDate": "2022-10-13",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/IMM_TRI/1.0.0/DHIS2.36/IMM_TRI_1.0.0_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/IMM_TRI/1.0.0/DHIS2.36/IMM_TRI_1.0.0_DHIS2.36.zip"
+                      },
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/IMM_TRI/1.0.0/DHIS2.37/IMM_TRI_1.0.0_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/IMM_TRI/1.0.0/DHIS2.37/IMM_TRI_1.0.0_DHIS2.37.zip"
+                      },
+                      {
+                        "version": "2.38",
+                        "metadataReference": "https://packages.dhis2.org/en/IMM_TRI/1.0.0/DHIS2.38/IMM_TRI_1.0.0_DHIS2.38.xlsx",
+                        "url": "https://packages.dhis2.org/en/IMM_TRI/1.0.0/DHIS2.38/IMM_TRI_1.0.0_DHIS2.38.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "area": "Malaria",
+        "code": "MAL",
+        "packages": [
+          {
+            "name": "Malaria HMIS (agg)",
+            "code": "MAL_AGG",
+            "packageVersions": [
+              {
+                "version": "2.0.0",
+                "releaseDate": "2022-11-21",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/MAL_AGG/2.0.0/DHIS2.36/MAL_AGG_2.0.0_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/MAL_AGG/2.0.0/DHIS2.36/MAL_AGG_2.0.0_DHIS2.36.zip"
+                      },
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/MAL_AGG/2.0.0/DHIS2.37/MAL_AGG_2.0.0_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/MAL_AGG/2.0.0/DHIS2.37/MAL_AGG_2.0.0_DHIS2.37.zip"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "version": "2.1.0",
+                "releaseDate": "2023-02-03",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/MAL_AGG/2.1.0/DHIS2.37/MAL_AGG_2.1.0_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/MAL_AGG/2.1.0/DHIS2.37/MAL_AGG_2.1.0_DHIS2.37.zip"
+                      },
+                      {
+                        "version": "2.38",
+                        "metadataReference": "https://packages.dhis2.org/en/MAL_AGG/2.1.0/DHIS2.38/MAL_AGG_2.1.0_DHIS2.38.xlsx",
+                        "url": "https://packages.dhis2.org/en/MAL_AGG/2.1.0/DHIS2.38/MAL_AGG_2.1.0_DHIS2.38.zip"
+                      },
+                      {
+                        "version": "2.39",
+                        "metadataReference": "https://packages.dhis2.org/en/MAL_AGG/2.1.0/DHIS2.39/MAL_AGG_2.1.0_DHIS2.39.xlsx",
+                        "url": "https://packages.dhis2.org/en/MAL_AGG/2.1.0/DHIS2.39/MAL_AGG_2.1.0_DHIS2.39.zip"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "version": "2.1.1",
+                "releaseDate": "2023-01-16",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/MAL_AGG/2.1.1/DHIS2.37/MAL_AGG_2.1.1_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/MAL_AGG/2.1.1/DHIS2.37/MAL_AGG_2.1.1_DHIS2.37.zip"
+                      },
+                      {
+                        "version": "2.38",
+                        "metadataReference": "https://packages.dhis2.org/en/MAL_AGG/2.1.1/DHIS2.38/MAL_AGG_2.1.1_DHIS2.38.xlsx",
+                        "url": "https://packages.dhis2.org/en/MAL_AGG/2.1.1/DHIS2.38/MAL_AGG_2.1.1_DHIS2.38.zip"
+                      },
+                      {
+                        "version": "2.39",
+                        "metadataReference": "https://packages.dhis2.org/en/MAL_AGG/2.1.1/DHIS2.39/MAL_AGG_2.1.1_DHIS2.39.xlsx",
+                        "url": "https://packages.dhis2.org/en/MAL_AGG/2.1.1/DHIS2.39/MAL_AGG_2.1.1_DHIS2.39.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Malaria Surveillance for Elimination Settings",
+            "code": "MAL_CS",
+            "packageVersions": [
+              {
+                "version": "1.0.0",
+                "releaseDate": "2022-11-21",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/MAL_CS/1.0.0/DHIS2.36/MAL_CS_1.0.0_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/MAL_CS/1.0.0/DHIS2.36/MAL_CS_1.0.0_DHIS2.36.zip"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "version": "1.0.1",
+                "releaseDate": "2023-01-03",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/MAL_CS/1.0.1/DHIS2.37/MAL_CS_1.0.1_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/MAL_CS/1.0.1/DHIS2.37/MAL_CS_1.0.1_DHIS2.37.zip"
+                      },
+                      {
+                        "version": "2.38",
+                        "metadataReference": "https://packages.dhis2.org/en/MAL_CS/1.0.1/DHIS2.38/MAL_CS_1.0.1_DHIS2.38.xlsx",
+                        "url": "https://packages.dhis2.org/en/MAL_CS/1.0.1/DHIS2.38/MAL_CS_1.0.1_DHIS2.38.zip"
+                      },
+                      {
+                        "version": "2.39",
+                        "metadataReference": "https://packages.dhis2.org/en/MAL_CS/1.0.1/DHIS2.39/MAL_CS_1.0.1_DHIS2.39.xlsx",
+                        "url": "https://packages.dhis2.org/en/MAL_CS/1.0.1/DHIS2.39/MAL_CS_1.0.1_DHIS2.39.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "area": "MLAG",
+        "code": "MLAG",
+        "hidden": true,
+        "packages": [
+          {
+            "name": "MLAG",
+            "code": "MLAG",
+            "packageVersions": [
+              {
+                "version": "1.2.1",
+                "releaseDate": "2021-12-17",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.35",
+                        "metadataReference": "https://packages.dhis2.org/en/MLAG/1.2.1/DHIS2.35/MLAG_1.2.1_DHIS2.35.xlsx",
+                        "url": "https://packages.dhis2.org/en/MLAG/1.2.1/DHIS2.35/MLAG_1.2.1_DHIS2.35.zip"
+                      },
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/MLAG/1.2.1/DHIS2.36/MLAG_1.2.1_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/MLAG/1.2.1/DHIS2.36/MLAG_1.2.1_DHIS2.36.zip"
+                      },
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/MLAG/1.2.1/DHIS2.37/MLAG_1.2.1_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/MLAG/1.2.1/DHIS2.37/MLAG_1.2.1_DHIS2.37.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "area": "MLS0",
+        "code": "MLS0",
+        "hidden": true,
+        "packages": [
+          {
+            "name": "MLS0",
+            "code": "MLS0",
+            "packageVersions": [
+              {
+                "version": "1.0.0",
+                "releaseDate": "2021-12-17",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.35",
+                        "metadataReference": "https://packages.dhis2.org/en/MLS0/1.0.0/DHIS2.35/MLS0_1.0.0_DHIS2.35.xlsx",
+                        "url": "https://packages.dhis2.org/en/MLS0/1.0.0/DHIS2.35/MLS0_1.0.0_DHIS2.35.zip"
+                      },
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/MLS0/1.0.0/DHIS2.36/MLS0_1.0.0_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/MLS0/1.0.0/DHIS2.36/MLS0_1.0.0_DHIS2.36.zip"
+                      },
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/MLS0/1.0.0/DHIS2.37/MLS0_1.0.0_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/MLS0/1.0.0/DHIS2.37/MLS0_1.0.0_DHIS2.37.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "area": "Non-Communicable Diseases",
+        "code": "NCD",
+        "packages": [
+          {
+            "name": "Hypertension Registry",
+            "code": "NCD_HTN",
+            "packageVersions": [
+              {
+                "version": "1.0.0",
+                "releaseDate": "2022-11-21",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/NCD_HTN/1.0.0/DHIS2.36/NCD_HTN_1.0.0_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/NCD_HTN/1.0.0/DHIS2.36/NCD_HTN_1.0.0_DHIS2.36.zip"
+                      },
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/NCD_HTN/1.0.0/DHIS2.37/NCD_HTN_1.0.0_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/NCD_HTN/1.0.0/DHIS2.37/NCD_HTN_1.0.0_DHIS2.37.zip"
+                      },
+                      {
+                        "version": "2.38",
+                        "metadataReference": "https://packages.dhis2.org/en/NCD_HTN/1.0.0/DHIS2.38/NCD_HTN_1.0.0_DHIS2.38.xlsx",
+                        "url": "https://packages.dhis2.org/en/NCD_HTN/1.0.0/DHIS2.38/NCD_HTN_1.0.0_DHIS2.38.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Sensory function: Eye and Ear care",
+            "code": "NCD_SF",
+            "packageVersions": [
+              {
+                "version": "1.0.0",
+                "releaseDate": "2023-03-21",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/NCD_SF/1.0.0/DHIS2.37/NCD_SF_1.0.0_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/NCD_SF/1.0.0/DHIS2.37/NCD_SF_1.0.0_DHIS2.37.zip"
+                      },
+                      {
+                        "version": "2.38",
+                        "metadataReference": "https://packages.dhis2.org/en/NCD_SF/1.0.0/DHIS2.38/NCD_SF_1.0.0_DHIS2.38.xlsx",
+                        "url": "https://packages.dhis2.org/en/NCD_SF/1.0.0/DHIS2.38/NCD_SF_1.0.0_DHIS2.38.zip"
+                      },
+                      {
+                        "version": "2.39",
+                        "metadataReference": "https://packages.dhis2.org/en/NCD_SF/1.0.0/DHIS2.39/NCD_SF_1.0.0_DHIS2.39.xlsx",
+                        "url": "https://packages.dhis2.org/en/NCD_SF/1.0.0/DHIS2.39/NCD_SF_1.0.0_DHIS2.39.zip"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "version": "1.0.1",
+                "releaseDate": "2023-04-26",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.38",
+                        "metadataReference": "https://packages.dhis2.org/en/NCD_SF/1.0.1/DHIS2.38/NCD_SF_1.0.1_DHIS2.38.xlsx",
+                        "url": "https://packages.dhis2.org/en/NCD_SF/1.0.1/DHIS2.38/NCD_SF_1.0.1_DHIS2.38.zip"
+                      },
+                      {
+                        "version": "2.39",
+                        "metadataReference": "https://packages.dhis2.org/en/NCD_SF/1.0.1/DHIS2.39/NCD_SF_1.0.1_DHIS2.39.xlsx",
+                        "url": "https://packages.dhis2.org/en/NCD_SF/1.0.1/DHIS2.39/NCD_SF_1.0.1_DHIS2.39.zip"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "version": "1.0.2",
+                "releaseDate": "2023-05-29",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.38",
+                        "metadataReference": "https://packages.dhis2.org/en/NCD_SF/1.0.2/DHIS2.38/NCD_SF_1.0.2_DHIS2.38.xlsx",
+                        "url": "https://packages.dhis2.org/en/NCD_SF/1.0.2/DHIS2.38/NCD_SF_1.0.2_DHIS2.38.zip"
+                      },
+                      {
+                        "version": "2.39",
+                        "metadataReference": "https://packages.dhis2.org/en/NCD_SF/1.0.2/DHIS2.39/NCD_SF_1.0.2_DHIS2.39.xlsx",
+                        "url": "https://packages.dhis2.org/en/NCD_SF/1.0.2/DHIS2.39/NCD_SF_1.0.2_DHIS2.39.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "area": "Nutrition",
+        "code": "NUTR",
+        "packages": [
+          {
+            "name": "NUTR",
+            "code": "NUTR",
+            "hidden": true,
+            "packageVersions": [
+              {
+                "version": "1.0.0",
+                "releaseDate": "2021-12-16",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.35",
+                        "metadataReference": "https://packages.dhis2.org/en/NUTR/1.0.0/DHIS2.35/NUTR_1.0.0_DHIS2.35.xlsx",
+                        "url": "https://packages.dhis2.org/en/NUTR/1.0.0/DHIS2.35/NUTR_1.0.0_DHIS2.35.zip"
+                      },
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/NUTR/1.0.0/DHIS2.36/NUTR_1.0.0_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/NUTR/1.0.0/DHIS2.36/NUTR_1.0.0_DHIS2.36.zip"
+                      },
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/NUTR/1.0.0/DHIS2.37/NUTR_1.0.0_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/NUTR/1.0.0/DHIS2.37/NUTR_1.0.0_DHIS2.37.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Nutrition (aggregate)",
+            "code": "NUTR_AGG",
+            "packageVersions": [
+              {
+                "version": "1.0.0",
+                "releaseDate": "2022-11-02",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/NUTR_AGG/1.0.0/DHIS2.36/NUTR_AGG_1.0.0_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/NUTR_AGG/1.0.0/DHIS2.36/NUTR_AGG_1.0.0_DHIS2.36.zip"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "version": "1.0.1",
+                "releaseDate": "2022-11-04",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/NUTR_AGG/1.0.1/DHIS2.36/NUTR_AGG_1.0.1_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/NUTR_AGG/1.0.1/DHIS2.36/NUTR_AGG_1.0.1_DHIS2.36.zip"
+                      },
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/NUTR_AGG/1.0.1/DHIS2.37/NUTR_AGG_1.0.1_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/NUTR_AGG/1.0.1/DHIS2.37/NUTR_AGG_1.0.1_DHIS2.37.zip"
+                      },
+                      {
+                        "version": "2.38",
+                        "metadataReference": "https://packages.dhis2.org/en/NUTR_AGG/1.0.1/DHIS2.38/NUTR_AGG_1.0.1_DHIS2.38.xlsx",
+                        "url": "https://packages.dhis2.org/en/NUTR_AGG/1.0.1/DHIS2.38/NUTR_AGG_1.0.1_DHIS2.38.zip"
+                      },
+                      {
+                        "version": "2.39",
+                        "metadataReference": "https://packages.dhis2.org/en/NUTR_AGG/1.0.1/DHIS2.39/NUTR_AGG_1.0.1_DHIS2.39.xlsx",
+                        "url": "https://packages.dhis2.org/en/NUTR_AGG/1.0.1/DHIS2.39/NUTR_AGG_1.0.1_DHIS2.39.zip"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "version": "1.0.2",
+                "releaseDate": "2023-03-01",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/NUTR_AGG/1.0.2/DHIS2.37/NUTR_AGG_1.0.2_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/NUTR_AGG/1.0.2/DHIS2.37/NUTR_AGG_1.0.2_DHIS2.37.zip"
+                      },
+                      {
+                        "version": "2.38",
+                        "metadataReference": "https://packages.dhis2.org/en/NUTR_AGG/1.0.2/DHIS2.38/NUTR_AGG_1.0.2_DHIS2.38.xlsx",
+                        "url": "https://packages.dhis2.org/en/NUTR_AGG/1.0.2/DHIS2.38/NUTR_AGG_1.0.2_DHIS2.38.zip"
+                      },
+                      {
+                        "version": "2.39",
+                        "metadataReference": "https://packages.dhis2.org/en/NUTR_AGG/1.0.2/DHIS2.39/NUTR_AGG_1.0.2_DHIS2.39.xlsx",
+                        "url": "https://packages.dhis2.org/en/NUTR_AGG/1.0.2/DHIS2.39/NUTR_AGG_1.0.2_DHIS2.39.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "area": "Rehabilitation",
+        "code": "REHAB",
+        "packages": [
+          {
+            "name": "Rehabilitation (aggregate)",
+            "code": "REHAB_AGG",
+            "packageVersions": [
+              {
+                "version": "1.1.0",
+                "releaseDate": "2023-03-07",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/REHAB_AGG/1.1.0/DHIS2.37/REHAB_AGG_1.1.0_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/REHAB_AGG/1.1.0/DHIS2.37/REHAB_AGG_1.1.0_DHIS2.37.zip"
+                      },
+                      {
+                        "version": "2.38",
+                        "metadataReference": "https://packages.dhis2.org/en/REHAB_AGG/1.1.0/DHIS2.38/REHAB_AGG_1.1.0_DHIS2.38.xlsx",
+                        "url": "https://packages.dhis2.org/en/REHAB_AGG/1.1.0/DHIS2.38/REHAB_AGG_1.1.0_DHIS2.38.zip"
+                      },
+                      {
+                        "version": "2.39",
+                        "metadataReference": "https://packages.dhis2.org/en/REHAB_AGG/1.1.0/DHIS2.39/REHAB_AGG_1.1.0_DHIS2.39.xlsx",
+                        "url": "https://packages.dhis2.org/en/REHAB_AGG/1.1.0/DHIS2.39/REHAB_AGG_1.1.0_DHIS2.39.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "area": "RHAG",
+        "code": "RHAG",
+        "hidden": true,
+        "packages": [
+          {
+            "name": "RHAG",
+            "code": "RHAG",
+            "packageVersions": [
+              {
+                "version": "1.0.0",
+                "releaseDate": "2022-02-22",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.35",
+                        "metadataReference": "https://packages.dhis2.org/en/RHAG/1.0.0/DHIS2.35/RHAG00_1.0.0_DHIS2.35.xlsx",
+                        "url": "https://packages.dhis2.org/en/RHAG/1.0.0/DHIS2.35/RHAG00_1.0.0_DHIS2.35.zip"
+                      },
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/RHAG/1.0.0/DHIS2.36/RHAG00_1.0.0_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/RHAG/1.0.0/DHIS2.36/RHAG00_1.0.0_DHIS2.36.zip"
+                      },
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/RHAG/1.0.0/DHIS2.37/RHAG00_1.0.0_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/RHAG/1.0.0/DHIS2.37/RHAG00_1.0.0_DHIS2.37.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "area": "Reproductive, Maternal, Newborn, Child and Adolescent Health",
+        "code": "RMNCAH",
+        "packages": [
+          {
+            "name": "Antenatal Care Registry",
+            "code": "RMNCAH_ANC",
+            "packageVersions": [
+              {
+                "version": "1.0.0",
+                "releaseDate": "2023-03-20",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/RMNCAH_ANC/1.0.0/DHIS2.37/RMNCAH_ANC_1.0.0_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/RMNCAH_ANC/1.0.0/DHIS2.37/RMNCAH_ANC_1.0.0_DHIS2.37.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "area": "RMS0",
+        "code": "RMS0",
+        "hidden": true,
+        "packages": [
+          {
+            "name": "RMS0",
+            "code": "RMS0",
+            "packageVersions": [
+              {
+                "version": "1.0.0",
+                "releaseDate": "2021-12-16",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.35",
+                        "metadataReference": "https://packages.dhis2.org/en/RMS0/1.0.0/DHIS2.35/RMS0_1.0.0_DHIS2.35.xlsx",
+                        "url": "https://packages.dhis2.org/en/RMS0/1.0.0/DHIS2.35/RMS0_1.0.0_DHIS2.35.zip"
+                      },
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/RMS0/1.0.0/DHIS2.36/RMS0_1.0.0_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/RMS0/1.0.0/DHIS2.36/RMS0_1.0.0_DHIS2.36.zip"
+                      },
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/RMS0/1.0.0/DHIS2.37/RMS0_1.0.0_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/RMS0/1.0.0/DHIS2.37/RMS0_1.0.0_DHIS2.37.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "area": "TBAG",
+        "code": "TBAG",
+        "hidden": true,
+        "packages": [
+          {
+            "name": "TBAG",
+            "code": "TBAG",
+            "packageVersions": [
+              {
+                "version": "1.3.0",
+                "releaseDate": "2021-12-17",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.35",
+                        "metadataReference": "https://packages.dhis2.org/en/TBAG/1.3.0/DHIS2.35/TBAG_1.3.0_DHIS2.35.xlsx",
+                        "url": "https://packages.dhis2.org/en/TBAG/1.3.0/DHIS2.35/TBAG_1.3.0_DHIS2.35.zip"
+                      },
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/TBAG/1.3.0/DHIS2.36/TBAG_1.3.0_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/TBAG/1.3.0/DHIS2.36/TBAG_1.3.0_DHIS2.36.zip"
+                      },
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/TBAG/1.3.0/DHIS2.37/TBAG_1.3.0_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/TBAG/1.3.0/DHIS2.37/TBAG_1.3.0_DHIS2.37.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "area": "TBCS",
+        "code": "TBCS",
+        "hidden": true,
+        "packages": [
+          {
+            "name": "TBCS",
+            "code": "TBCS",
+            "packageVersions": [
+              {
+                "version": "1.0.1",
+                "releaseDate": "2022-01-24",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.35",
+                        "metadataReference": "https://packages.dhis2.org/en/TBCS/1.0.1/DHIS2.35/TBCS_1.0.1_DHIS2.35.xlsx",
+                        "url": "https://packages.dhis2.org/en/TBCS/1.0.1/DHIS2.35/TBCS_1.0.1_DHIS2.35.zip"
+                      },
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/TBCS/1.0.1/DHIS2.36/TBCS_1.0.1_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/TBCS/1.0.1/DHIS2.36/TBCS_1.0.1_DHIS2.36.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "area": "TBDR",
+        "code": "TBDR",
+        "hidden": true,
+        "packages": [
+          {
+            "name": "TBDR",
+            "code": "TBDR",
+            "packageVersions": [
+              {
+                "version": "1.0.1",
+                "releaseDate": "2022-01-24",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.35",
+                        "metadataReference": "https://packages.dhis2.org/en/TBDR/1.0.1/DHIS2.35/TBDR_1.0.1_DHIS2.35.xlsx",
+                        "url": "https://packages.dhis2.org/en/TBDR/1.0.1/DHIS2.35/TBDR_1.0.1_DHIS2.35.zip"
+                      },
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/TBDR/1.0.1/DHIS2.36/TBDR_1.0.1_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/TBDR/1.0.1/DHIS2.36/TBDR_1.0.1_DHIS2.36.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "area": "Tuberculosis",
+        "code": "TB",
+        "packages": [
+          {
+            "name": "TB HMIS",
+            "code": "TB_AGG",
+            "packageVersions": [
+              {
+                "version": "1.4.0",
+                "releaseDate": "2022-09-16",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/TB_AGG/1.4.0/DHIS2.36/TB_AGG_1.4.0_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/TB_AGG/1.4.0/DHIS2.36/TB_AGG_1.4.0_DHIS2.36.zip"
+                      },
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/TB_AGG/1.4.0/DHIS2.37/TB_AGG_1.4.0_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/TB_AGG/1.4.0/DHIS2.37/TB_AGG_1.4.0_DHIS2.37.zip"
+                      },
+                      {
+                        "version": "2.38",
+                        "metadataReference": "https://packages.dhis2.org/en/TB_AGG/1.4.0/DHIS2.38/TB_AGG_1.4.0_DHIS2.38.xlsx",
+                        "url": "https://packages.dhis2.org/en/TB_AGG/1.4.0/DHIS2.38/TB_AGG_1.4.0_DHIS2.38.zip"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "version": "1.4.1",
+                "releaseDate": "2022-10-24",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/TB_AGG/1.4.1/DHIS2.36/TB_AGG_1.4.1_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/TB_AGG/1.4.1/DHIS2.36/TB_AGG_1.4.1_DHIS2.36.zip"
+                      },
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/TB_AGG/1.4.1/DHIS2.37/TB_AGG_1.4.1_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/TB_AGG/1.4.1/DHIS2.37/TB_AGG_1.4.1_DHIS2.37.zip"
+                      },
+                      {
+                        "version": "2.38",
+                        "metadataReference": "https://packages.dhis2.org/en/TB_AGG/1.4.1/DHIS2.38/TB_AGG_1.4.1_DHIS2.38.xlsx",
+                        "url": "https://packages.dhis2.org/en/TB_AGG/1.4.1/DHIS2.38/TB_AGG_1.4.1_DHIS2.38.zip"
+                      },
+                      {
+                        "version": "2.39",
+                        "metadataReference": "https://packages.dhis2.org/en/TB_AGG/1.4.1/DHIS2.39/TB_AGG_1.4.1_DHIS2.39.xlsx",
+                        "url": "https://packages.dhis2.org/en/TB_AGG/1.4.1/DHIS2.39/TB_AGG_1.4.1_DHIS2.39.zip"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "version": "2.38",
+                "hidden": true,
+                "releaseDate": "2022-09-16",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.38",
+                        "metadataReference": "https://packages.dhis2.org/en/TB_AGG/2.38/DHIS2.38/TB_AGG_2.38_DHIS2.38.xlsx",
+                        "url": "https://packages.dhis2.org/en/TB_AGG/2.38/DHIS2.38/TB_AGG_2.38_DHIS2.38.zip"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "version": "7.0.0",
+                "releaseDate": "2022-10-20",
+                "hidden": true,
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/TB_AGG/7.0.0/DHIS2.36/TB_AGG_7.0.0_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/TB_AGG/7.0.0/DHIS2.36/TB_AGG_7.0.0_DHIS2.36.zip"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "version": "1.5.0",
+                "releaseDate": "2023-07-13",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.40",
+                        "metadataReference": "https://packages.dhis2.org/en/TB_AGG/1.5.0/DHIS2.40/TB_AGG_COMPLETE_1.5.0_DHIS2.40.xlsx",
+                        "url": "https://packages.dhis2.org/en/TB_AGG/1.5.0/DHIS2.40/TB_AGG_1.5.0_DHIS2.40.zip"
+                      },
+                      {
+                        "version": "2.39",
+                        "metadataReference": "https://packages.dhis2.org/en/TB_AGG/1.5.0/DHIS2.39/TB_AGG_COMPLETE_1.5.0_DHIS2.39.xlsx",
+                        "url": "https://packages.dhis2.org/en/TB_AGG/1.5.0/DHIS2.39/TB_AGG_1.5.0_DHIS2.39.zip"
+                      },
+                      {
+                        "version": "2.38",
+                        "metadataReference": "https://packages.dhis2.org/en/TB_AGG/1.5.0/DHIS2.38/TB_AGG_COMPLETE_1.5.0_DHIS2.38.xlsx",
+                        "url": "https://packages.dhis2.org/en/TB_AGG/1.5.0/DHIS2.38/TB_AGG_1.5.0_DHIS2.38.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "TB Case Surveillance",
+            "code": "TB_CS",
+            "packageVersions": [
+              {
+                "version": "1.0.1",
+                "releaseDate": "2022-11-11",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.35",
+                        "metadataReference": "https://packages.dhis2.org/en/TB_CS/1.0.1/DHIS2.35/TBCS_1.0.1_DHIS2.35.xlsx",
+                        "url": "https://packages.dhis2.org/en/TB_CS/1.0.1/DHIS2.35/TBCS_1.0.1_DHIS2.35.zip"
+                      },
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/TB_CS/1.0.1/DHIS2.36/TBCS_1.0.1_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/TB_CS/1.0.1/DHIS2.36/TBCS_1.0.1_DHIS2.36.zip"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "version": "2.0.0",
+                "releaseDate": "2022-09-16",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/TB_CS/2.0.0/DHIS2.36/TB_CS_2.0.0_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/TB_CS/2.0.0/DHIS2.36/TB_CS_2.0.0_DHIS2.36.zip"
+                      },
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/TB_CS/2.0.0/DHIS2.37/TB_CS_2.0.0_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/TB_CS/2.0.0/DHIS2.37/TB_CS_2.0.0_DHIS2.37.zip"
+                      },
+                      {
+                        "version": "2.38",
+                        "metadataReference": "https://packages.dhis2.org/en/TB_CS/2.0.0/DHIS2.38/TB_CS_2.0.0_DHIS2.38.xlsx",
+                        "url": "https://packages.dhis2.org/en/TB_CS/2.0.0/DHIS2.38/TB_CS_2.0.0_DHIS2.38.zip"
+                      },
+                      {
+                        "version": "2.39",
+                        "metadataReference": "https://packages.dhis2.org/en/TB_CS/2.0.0/DHIS2.39/TB_CS_2.0.0_DHIS2.39.xlsx",
+                        "url": "https://packages.dhis2.org/en/TB_CS/2.0.0/DHIS2.39/TB_CS_2.0.0_DHIS2.39.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "Anti-Tuberculosis Drug Resistance Survey (DRS)",
+            "code": "TB_DRS",
+            "packageVersions": [
+              {
+                "version": "1.0.1",
+                "releaseDate": "2022-11-02",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/TB_DRS/1.0.1/DHIS2.36/TB_DRS_1.0.1_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/TB_DRS/1.0.1/DHIS2.36/TB_DRS_1.0.1_DHIS2.36.zip"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "version": "1.0.2",
+                "releaseDate": "2023-07-13",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.38.4",
+                        "metadataReference": "https://packages.dhis2.org/en/TB_DRS/1.0.2/DHIS2.38/TB_DRS_COMPLETE_1.0.2_DHIS2.38.xlsx",
+                        "url": "https://packages.dhis2.org/en/TB_DRS/1.0.2/DHIS2.38/TB_DRS_1.0.2_DHIS2.38.zip"
+                      },
+                      {
+                        "version": "2.39.2",
+                        "metadataReference": "https://packages.dhis2.org/en/TB_DRS/1.0.2/DHIS2.39/TB_DRS_COMPLETE_1.0.2_DHIS2.39.xlsx",
+                        "url": "https://packages.dhis2.org/en/TB_DRS/1.0.2/DHIS2.39/TB_DRS_1.0.2_DHIS2.39.zip"
+                      },
+                      {
+                        "version": "2.40.0",
+                        "metadataReference": "https://packages.dhis2.org/en/TB_DRS/1.0.2/DHIS2.40/TB_DRS_COMPLETE_1.0.2_DHIS2.40.xlsx",
+                        "url": "https://packages.dhis2.org/en/TB_DRS/1.0.2/DHIS2.40/TB_DRS_1.0.2_DHIS2.40.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name": "TB - COVID-19 Impact Assessment",
+            "code": "TB_IMPAX",
+            "packageVersions": [
+              {
+                "version": "1.0.0",
+                "releaseDate": "2022-09-13",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/TB_IMPAX/1.0.0/DHIS2.36/TB_IMPAX_1.0.0_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/TB_IMPAX/1.0.0/DHIS2.36/TB_IMPAX_1.0.0_DHIS2.36.zip"
+                      },
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/TB_IMPAX/1.0.0/DHIS2.37/TB_IMPAX_1.0.0_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/TB_IMPAX/1.0.0/DHIS2.37/TB_IMPAX_1.0.0_DHIS2.37.zip"
+                      },
+                      {
+                        "version": "2.38",
+                        "metadataReference": "https://packages.dhis2.org/en/TB_IMPAX/1.0.0/DHIS2.38/TB_IMPAX_1.0.0_DHIS2.38.xlsx",
+                        "url": "https://packages.dhis2.org/en/TB_IMPAX/1.0.0/DHIS2.38/TB_IMPAX_1.0.0_DHIS2.38.zip"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "version": "1.0.1",
+                "releaseDate": "2022-10-24",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/TB_IMPAX/1.0.1/DHIS2.36/TB_IMPAX_1.0.1_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/TB_IMPAX/1.0.1/DHIS2.36/TB_IMPAX_1.0.1_DHIS2.36.zip"
+                      },
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/TB_IMPAX/1.0.1/DHIS2.37/TB_IMPAX_1.0.1_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/TB_IMPAX/1.0.1/DHIS2.37/TB_IMPAX_1.0.1_DHIS2.37.zip"
+                      },
+                      {
+                        "version": "2.38",
+                        "metadataReference": "https://packages.dhis2.org/en/TB_IMPAX/1.0.1/DHIS2.38/TB_IMPAX_1.0.1_DHIS2.38.xlsx",
+                        "url": "https://packages.dhis2.org/en/TB_IMPAX/1.0.1/DHIS2.38/TB_IMPAX_1.0.1_DHIS2.38.zip"
+                      },
+                      {
+                        "version": "2.39",
+                        "metadataReference": "https://packages.dhis2.org/en/TB_IMPAX/1.0.1/DHIS2.39/TB_IMPAX_1.0.1_DHIS2.39.xlsx",
+                        "url": "https://packages.dhis2.org/en/TB_IMPAX/1.0.1/DHIS2.39/TB_IMPAX_1.0.1_DHIS2.39.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "area": "VE00",
+        "code": "VE00",
+        "hidden": true,
+        "packages": [
+          {
+            "name": "VE00",
+            "code": "VE00",
+            "packageVersions": [
+              {
+                "version": "1.1.0",
+                "releaseDate": "2022-01-25",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.35",
+                        "metadataReference": "https://packages.dhis2.org/en/VE00/1.1.0/DHIS2.35/VE00_1.1.0_DHIS2.35.xlsx",
+                        "url": "https://packages.dhis2.org/en/VE00/1.1.0/DHIS2.35/VE00_1.1.0_DHIS2.35.zip"
+                      },
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/VE00/1.1.0/DHIS2.36/VE00_1.1.0_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/VE00/1.1.0/DHIS2.36/VE00_1.1.0_DHIS2.36.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "area": "VPD",
+        "code": "VPD",
+        "hidden": true,
+        "packages": [
+          {
+            "name": "Vaccine Preventable Disease Case Surveillance",
+            "code": "VPD_CS",
+            "packageVersions": [
+              {
+                "version": "1.1.0",
+                "releaseDate": "2022-11-09",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/en/VPD_CS/1.1.0/DHIS2.36/VPD_CS_1.1.0_DHIS2.36.xlsx",
+                        "url": "https://packages.dhis2.org/en/VPD_CS/1.1.0/DHIS2.36/VPD_CS_1.1.0_DHIS2.36.zip"
+                      },
+                      {
+                        "version": "2.37",
+                        "metadataReference": "https://packages.dhis2.org/en/VPD_CS/1.1.0/DHIS2.37/VPD_CS_1.1.0_DHIS2.37.xlsx",
+                        "url": "https://packages.dhis2.org/en/VPD_CS/1.1.0/DHIS2.37/VPD_CS_1.1.0_DHIS2.37.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "area": "HICS",
+        "code": "HICS",
+        "hidden": true,
+        "packages": [
+          {
+            "name": "HICS",
+            "code": "HICS",
+            "packageVersions": [
+              {
+                "version": "0.1.0",
+                "releaseDate": "2021-12-16",
+                "translations": [
+                  {
+                    "language": "fr",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.34",
+                        "metadataReference": "https://packages.dhis2.org/fr/HICS/0.1.0/DHIS2.34/HICS00_0.1.0_DHIS2.34-fr.xlsx",
+                        "url": "https://packages.dhis2.org/fr/HICS/0.1.0/DHIS2.34/HICS00_0.1.0_DHIS2.34-fr.zip"
+                      },
+                      {
+                        "version": "2.35",
+                        "metadataReference": "https://packages.dhis2.org/fr/HICS/0.1.0/DHIS2.35/HICS00_0.1.0_DHIS2.35-fr.xlsx",
+                        "url": "https://packages.dhis2.org/fr/HICS/0.1.0/DHIS2.35/HICS00_0.1.0_DHIS2.35-fr.zip"
+                      },
+                      {
+                        "version": "2.36",
+                        "metadataReference": "https://packages.dhis2.org/fr/HICS/0.1.0/DHIS2.36/HICS00_0.1.0_DHIS2.36-fr.xlsx",
+                        "url": "https://packages.dhis2.org/fr/HICS/0.1.0/DHIS2.36/HICS00_0.1.0_DHIS2.36-fr.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "area": "Health Facility Profile",
+        "hidden": true,
+        "code": "HFP",
+        "packages": [
+          {
+            "name": "Health Facility Profile",
+            "code": "HFP",
+            "packageVersions": [
+              {
+                "version": "0.1.0",
+                "releaseDate": "2023-09-04",
+                "translations": [
+                  {
+                    "language": "en",
+                    "dhis2Versions": [
+                      {
+                        "version": "2.38",
+                        "metadataReference": "https://packages.dhis2.org/en/HFP/0.1.0/DHIS2.38/HFP_COMPLETE_0.1.0_DHIS2.38.xlsx",
+                        "url": "https://packages.dhis2.org/en/HFP/0.1.0/DHIS2.38/HFP_0.1.0_DHIS2.38.zip"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
