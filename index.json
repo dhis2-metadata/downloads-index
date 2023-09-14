@@ -534,7 +534,7 @@
         "code": "GEN",
         "packages": [
           {
-            "name": "GEN_LIB",
+            "name": "Common Metadata Library",
             "code": "GEN_LIB",
             "packageVersions": [
               {
