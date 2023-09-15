@@ -383,7 +383,7 @@
         "code": "ENTO",
         "packages": [
           {
-            "name": "Breeding Sites Monitoring",
+            "name": "Breeding Site Monitoring - Larviciding",
             "code": "ENTO_BSM",
             "packageVersions": [
               {
@@ -410,7 +410,7 @@
             ]
           },
           {
-            "name": "Indoor Residual Spraying",
+            "name": "Indoor Residual Spraying - Residual Efficacy Monitoring",
             "code": "ENTO_IRS",
             "packageVersions": [
               {
@@ -437,7 +437,7 @@
             ]
           },
           {
-            "name": "Insecticide-Treated Nets",
+            "name": "Insecticide-treated Nets - Bioefficacy",
             "code": "ENTO_ITN",
             "packageVersions": [
               {
@@ -464,7 +464,7 @@
             ]
           },
           {
-            "name": "Vector Control - Insecticide Residual Spraying Campaign",
+            "name": "Indoor Residual Spraying - Mass Campaign",
             "code": "VC_IRS_CAMPAIGN",
             "packageVersions": [
               {
@@ -496,7 +496,7 @@
             ]
           },
           {
-            "name": "Insecticide Treated Nets - Mass Campaign",
+            "name": "Insecticide-treated Nets - Mass Campaign",
             "code": "VC_ITN_MC",
             "packageVersions": [
               {
