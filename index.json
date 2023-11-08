@@ -688,9 +688,25 @@
           ]
         },
         {
-          "name": "HIV Case Surveillance",
-          "code": "HICS",
+          "name": "HIV Case Surveillance (tracker)",
+          "code": "HIV_CS",
           "packageVersions": [
+            {
+              "version": "1.0.0",
+              "releaseDate": "2023-11-08",
+              "translations": [
+                {
+                  "language": "en",
+                  "dhis2Versions": [
+                    {
+                      "version": "2.39",
+                      "metadataReference": "https://packages.dhis2.org/en/HIV_CS/1.0.0/DHIS2.39/HIV_CS_COMPLETE_1.0.0_DHIS2.39.xlsx",
+                      "url": "https://packages.dhis2.org/en/HIV_CS/1.0.0/DHIS2.39/HIV_CS_1.0.0_DHIS2.39.zip"
+                    }
+                  ]
+                }
+              ]
+            },
             {
               "version": "0.1.0",
               "releaseDate": "2021-12-16",
@@ -712,28 +728,6 @@
                       "version": "2.36",
                       "metadataReference": "https://packages.dhis2.org/fr/HICS/0.1.0/DHIS2.36/HICS00_0.1.0_DHIS2.36-fr.xlsx",
                       "url": "https://packages.dhis2.org/fr/HICS/0.1.0/DHIS2.36/HICS00_0.1.0_DHIS2.36-fr.zip"
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "HIV Case Surveillance (tracker)",
-          "code": "HIV_CS",
-          "packageVersions": [
-            {
-              "version": "1.0.0",
-              "releaseDate": "2023-11-08",
-              "translations": [
-                {
-                  "language": "en",
-                  "dhis2Versions": [
-                    {
-                      "version": "2.39",
-                      "metadataReference": "https://packages.dhis2.org/en/HIV_CS/1.0.0/DHIS2.39/HIV_CS_COMPLETE_1.0.0_DHIS2.39.xlsx",
-                      "url": "https://packages.dhis2.org/en/HIV_CS/1.0.0/DHIS2.39/HIV_CS_1.0.0_DHIS2.39.zip"
                     }
                   ]
                 }
