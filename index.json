@@ -688,7 +688,7 @@
           ]
         },
         {
-          "name": "HIV Case Surveillance (tracker)",
+          "name": "HIV Case Surveillance",
           "code": "HIV_CS",
           "packageVersions": [
             {
