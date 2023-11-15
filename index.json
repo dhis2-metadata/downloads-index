@@ -702,6 +702,11 @@
                       "version": "2.39",
                       "metadataReference": "https://packages.dhis2.org/en/HIV_CS/1.0.0/DHIS2.39/HIV_CS_COMPLETE_1.0.0_DHIS2.39.xlsx",
                       "url": "https://packages.dhis2.org/en/HIV_CS/1.0.0/DHIS2.39/HIV_CS_1.0.0_DHIS2.39.zip"
+                    },
+                    {
+                      "version": "2.38",
+                      "metadataReference": "https://packages.dhis2.org/en/HIV_CS/1.0.0/DHIS2.38/HIV_CS_COMPLETE_1.0.0_DHIS2.38.xlsx",
+                      "url": "https://packages.dhis2.org/en/HIV_CS/1.0.0/DHIS2.38/HIV_CS_1.0.0_DHIS2.38.zip"
                     }
                   ]
                 }
