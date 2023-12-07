@@ -739,6 +739,28 @@
               ]
             }
           ]
+        },
+        {
+          "name": "HIV Prevention",
+          "code": "HIV_PREV",
+          "packageVersions": [
+            {
+              "version": "1.0.0",
+              "releaseDate": "2023-12-07",
+              "translations": [
+                {
+                  "language": "en",
+                  "dhis2Versions": [
+                    {
+                      "version": "2.40",
+                      "metadataReference": "https://packages.dhis2.org/en/HIV_PREV/1.0.0/DHIS2.40/HIV_PREV_COMPLETE_1.0.0_DHIS2.40.xlsx",
+                      "url": "https://packages.dhis2.org/en/HIV_PREV/1.0.0/DHIS2.40/HIV_PREV_1.0.0_DHIS2.40.zip"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
