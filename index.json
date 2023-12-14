@@ -2111,7 +2111,6 @@
     },
     {
       "area": "Health Facility Profile",
-      "hidden": true,
       "code": "HFP",
       "packages": [
         {
@@ -2120,6 +2119,7 @@
           "packageVersions": [
             {
               "version": "0.1.0",
+              "hidden": true,
               "releaseDate": "2023-09-04",
               "translations": [
                 {
