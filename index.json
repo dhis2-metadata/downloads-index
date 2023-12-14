@@ -2111,7 +2111,6 @@
     },
     {
       "area": "Health Facility Profile",
-      "hidden": true,
       "code": "HFP",
       "packages": [
         {
@@ -2120,6 +2119,7 @@
           "packageVersions": [
             {
               "version": "0.1.0",
+              "hidden": true,
               "releaseDate": "2023-09-04",
               "translations": [
                 {
@@ -2145,6 +2145,11 @@
                       "version": "2.39",
                       "metadataReference": "https://packages.dhis2.org/en/HFP/1.0.0/DHIS2.39/HFP_COMPLETE_1.0.0_DHIS2.39.xlsx",
                       "url": "https://packages.dhis2.org/en/HFP/1.0.0/DHIS2.39/HFP_1.0.0_DHIS2.39.zip"
+                    },
+                    {
+                      "version": "2.38",
+                      "metadataReference": "https://packages.dhis2.org/en/HFP/1.0.0/DHIS2.38/HFP_COMPLETE_1.0.0_DHIS2.38.xlsx",
+                      "url": "https://packages.dhis2.org/en/HFP/1.0.0/DHIS2.38/HFP_1.0.0_DHIS2.38.zip"
                     }
                   ]
                 }
