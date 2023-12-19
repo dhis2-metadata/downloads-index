@@ -148,6 +148,28 @@
               ]
             }
           ]
+        },
+        {
+          "name": "CHIS Adolescent Health",
+          "code": "CHIS_AGG_AH",
+          "packageVersions": [
+            {
+              "version": "1.1.0",
+              "releaseDate": "2023-12-19",
+              "translations": [
+                {
+                  "language": "en",
+                  "dhis2Versions": [
+                    {
+                      "version": "2.38",
+                      "metadataReference": "https://packages.dhis2.org/en/CHIS_AGG/1.1.0/DHIS2.38/CHIS_AGG_AH_1.1.0_DHIS2.38.xlsx",
+                      "url": "https://packages.dhis2.org/en/CHIS_AGG/1.1.0/DHIS2.38/CHIS_AGG_1.1.0_DHIS2.38.zip"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
