@@ -1102,6 +1102,7 @@
                                     "dhis2Versions": [
                                         {
                                             "version": "2.37",
+                                            "hidden": true,
                                             "metadataReference": "https://packages.dhis2.org/en/MAL_AGG/2.1.1/DHIS2.37/MAL_AGG_2.1.1_DHIS2.37.xlsx",
                                             "url": "https://packages.dhis2.org/en/MAL_AGG/2.1.1/DHIS2.37/MAL_AGG_2.1.1_DHIS2.37.zip"
                                         },
@@ -1183,6 +1184,11 @@
                                             "version": "2.39",
                                             "metadataReference": "https://packages.dhis2.org/en/MAL_CS/1.0.2/DHIS2.39/MAL_CS_COMPLETE_1.0.2_DHIS2.39.xlsx",
                                             "url": "https://packages.dhis2.org/en/MAL_CS/1.0.2/DHIS2.39/MAL_CS_1.0.2_DHIS2.39.zip"
+                                        }
+                                         {
+                                            "version": "2.40",
+                                            "metadataReference": "https://packages.dhis2.org/en/MAL_CS/1.0.2/DHIS2.40/MAL_CS_COMPLETE_1.0.2_DHIS2.40.xlsx",
+                                            "url": "https://packages.dhis2.org/en/MAL_CS/1.0.2/DHIS2.40/MAL_CS_1.0.2_DHIS2.40.zip"
                                         }
                                     ]
                                 }
