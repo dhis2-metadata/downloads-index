@@ -2041,6 +2041,28 @@
               ]
             }
           ]
+        },
+        {
+          "name": "TB Household Contacts Investigation",
+          "code": "TB_HH",
+          "packageVersions": [
+            {
+              "version": "1.0.0",
+              "releaseDate": "2023-12-20",
+              "translations": [
+                {
+                  "language": "en",
+                  "dhis2Versions": [
+                    {
+                      "version": "2.39",
+                      "metadataReference": "https://packages.dhis2.org/en/TB_HH/1.0.0/DHIS2.39/TB_HH_COMPLETE_1.0.0_DHIS2.39.xlsx",
+                      "url": "https://packages.dhis2.org/en/TB_HH/1.0.0/DHIS2.39/TB_HH_1.0.0_DHIS2.39.zip"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
