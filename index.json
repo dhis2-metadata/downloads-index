@@ -1953,6 +1953,11 @@
                   "language": "en",
                   "dhis2Versions": [
                     {
+                      "version": "2.39",
+                      "metadataReference": "https://packages.dhis2.org/en/TB_CS/2.1.0/DHIS2.39/TB_CS_COMPLETE_2.1.0_DHIS2.39.xlsx",
+                      "url": "https://packages.dhis2.org/en/TB_CS/2.1.0/DHIS2.39/TB_CS_2.1.0_DHIS2.39.zip"
+                    },
+                    {
                       "version": "2.40",
                       "metadataReference": "https://packages.dhis2.org/en/TB_CS/2.1.0/DHIS2.40/TB_CS_COMPLETE_2.1.0_DHIS2.40.xlsx",
                       "url": "https://packages.dhis2.org/en/TB_CS/2.1.0/DHIS2.40/TB_CS_2.1.0_DHIS2.40.zip"
