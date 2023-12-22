@@ -518,6 +518,22 @@
                   ]
                 }
               ]
+            },
+            {
+              "version": "2.0.0",
+              "releaseDate": "2023-12-22",
+              "translations": [
+                {
+                  "language": "en",
+                  "dhis2Versions": [
+                    {
+                      "version": "2.40",
+                      "metadataReference": "https://packages.dhis2.org/en/VC_IRS/2.0.0/DHIS2.40/VC_IRS_CAMPAIGN_2.0.0_DHIS2.40.xlsx",
+                      "url": "https://packages.dhis2.org/en/VC_IRS/2.0.0/DHIS2.40/VC_IRS_2.0.0_DHIS2.40.zip"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
