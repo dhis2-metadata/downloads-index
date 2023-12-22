@@ -172,6 +172,22 @@
                   ]
                 }
               ]
+            },
+            {
+              "version": "2.0.0",
+              "releaseDate": "2023-12-22",
+              "translations": [
+                {
+                  "language": "en",
+                  "dhis2Versions": [
+                    {
+                      "version": "2.40",
+                      "metadataReference": "https://packages.dhis2.org/en/CHIS_AGG/2.0.0/DHIS2.40/CHIS_AGG_COMPLETE_2.0.0_DHIS2.40.xlsx",
+                      "url": "https://packages.dhis2.org/en/CHIS_AGG/2.0.0/DHIS2.40/CHIS_AGG_2.0.0_DHIS2.40.zip"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
