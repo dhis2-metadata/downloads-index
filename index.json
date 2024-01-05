@@ -1886,6 +1886,22 @@
                   ]
                 }
               ]
+            },
+            {
+              "version": "2.0.0",
+              "releaseDate": "2024-01-05",
+              "translations": [
+                {
+                  "language": "en",
+                  "dhis2Versions": [
+                    {
+                      "version": "2.39",
+                      "metadataReference": "https://packages.dhis2.org/en/TB_AGG/2.0.0/DHIS2.39/TB_AGG_COMPLETE_2.0.0_DHIS2.39.xlsx",
+                      "url": "https://packages.dhis2.org/en/TB_AGG/2.0.0/DHIS2.39/TB_AGG_2.0.0_DHIS2.39.zip"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
