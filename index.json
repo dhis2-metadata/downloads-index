@@ -1035,6 +1035,28 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Supplementary Immunization Activities - Rapid Convenience Monitoring",
+          "code": "SIA_RCM",
+          "packageVersions": [
+            {
+              "version": "1.0.0",
+              "releaseDate": "2024-02-08",
+              "translations": [
+                {
+                  "language": "en",
+                  "dhis2Versions": [
+                    {
+                      "version": "2.39",
+                      "metadataReference": "https://packages.dhis2.org/en/SIA_RCM/1.0.0/DHIS2.39/SIA_RCM_COMPLETE_1.0.0_DHIS2.39.xlsx",
+                      "url": "https://packages.dhis2.org/en/SIA_RCM/1.0.0/DHIS2.39/SIA_RCM_1.0.0_DHIS2.39.zip"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
