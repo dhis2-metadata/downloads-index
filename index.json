@@ -1556,6 +1556,11 @@
                       "version": "2.38",
                       "metadataReference": "https://packages.dhis2.org/en/NUTR_AGG/1.1.0/DHIS2.38/NUTR_AGG_COMPLETE_1.1.0_DHIS2.38.xlsx",
                       "url": "https://packages.dhis2.org/en/NUTR_AGG/1.1.0/DHIS2.38/NUTR_AGG_1.1.0_DHIS2.38.zip"
+                    },
+                    {
+                      "version": "2.40",
+                      "metadataReference": "https://packages.dhis2.org/en/NUTR_AGG/1.1.0/DHIS2.40/NUTR_AGG_COMPLETE_1.1.0_DHIS2.40.xlsx",
+                      "url": "https://packages.dhis2.org/en/NUTR_AGG/1.1.0/DHIS2.40/NUTR_AGG_1.1.0_DHIS2.40.zip"
                     }
                   ]
                 }
