@@ -2354,6 +2354,34 @@
           ]
         }
       ]
+    },
+    {
+      "area": "Animal Health",
+      "code": "AH",
+      "packages": [
+        {
+          "name": "Animal Health - Event Based Surveillance",
+          "code": "AH_EBS",
+          "packageVersions": [
+            {
+              "version": "1.0.0",
+              "releaseDate": "2024-05-31",
+              "translations": [
+                {
+                  "language": "en",
+                  "dhis2Versions": [
+                    {
+                      "version": "2.40",
+                      "metadataReference": "https://packages.dhis2.org/en/AH_EBS/1.0.0/DHIS2.40/AH_EBS_COMPLETE_1.0.0_DHIS2.40.xlsx",
+                      "url": "https://packages.dhis2.org/en/AH_EBS/1.0.0/DHIS2.40/AH_EBS_1.0.0_DHIS2.40.zip"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
