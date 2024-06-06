@@ -726,6 +726,22 @@
                   ]
                 }
               ]
+            },
+            {
+              "version": "2.0.1",
+              "releaseDate": "2024-06-06",
+              "translations": [
+                {
+                  "language": "en",
+                  "dhis2Versions": [
+                    {
+                      "version": "2.40",
+                      "metadataReference": "https://packages.dhis2.org/en/HIV_AGG/2.0.1/DHIS2.40/HIV_AGG_COMPLETE_2.0.1_DHIS2.40.xlsx",
+                      "url": "https://packages.dhis2.org/en/HIV_AGG/2.0.1/DHIS2.40/HIV_AGG_2.0.1_DHIS2.40.zip"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
