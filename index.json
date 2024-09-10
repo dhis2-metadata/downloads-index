@@ -756,6 +756,16 @@
                       "url": "https://packages.dhis2.org/es/HIV_AGG/2.0.2/DHIS2.40/HIV_AGG_2.0.2_DHIS2.40-es.zip"
                     }
                   ]
+                },
+                {
+                  "language": "en",
+                  "dhis2Versions": [
+                    {
+                      "version": "2.40",
+                      "metadataReference": "https://packages.dhis2.org/en/HIV_AGG/2.0.2/DHIS2.40/HIV_AGG_COMPLETE_2.0.2_DHIS2.40.xlsx",
+                      "url": "https://packages.dhis2.org/en/HIV_AGG/2.0.2/DHIS2.40/HIV_AGG_2.0.2_DHIS2.40.zip"
+                    }
+                  ]
                 }
               ]
             }
