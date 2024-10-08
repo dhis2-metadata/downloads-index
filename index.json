@@ -1245,6 +1245,28 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Mpox Electronic Immunization Registry",
+          "code": "MPOX_EIR",
+          "packageVersions": [
+            {
+              "version": "0.0.1",
+              "releaseDate": "2024-10-08",
+              "translations": [
+                {
+                  "language": "en",
+                  "dhis2Versions": [
+                    {
+                      "version": "2.40",
+                      "metadataReference": "https://packages.dhis2.org/en/MPOX_EIR/0.0.1/DHIS2.40/MPOX_EIR_COMPLETE_0.0.1_DHIS2.40.xlsx",
+                      "url": "https://packages.dhis2.org/en/MPOX_EIR/0.0.1/DHIS2.40/MPOX_EIR_0.0.1_DHIS2.40.zip"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
