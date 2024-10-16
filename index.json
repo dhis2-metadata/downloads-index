@@ -2570,6 +2570,34 @@
           ]
         }
       ]
+    },
+    {
+      "area": "Emergency Preparedness and Response",
+      "code": "EPR",
+      "packages": [
+        {
+          "name": "Emergency Preparedness and Response - Rapid Response Team rostering tool",
+          "code": "EPR_RRT",
+          "packageVersions": [
+            {
+              "version": "1.0.0",
+              "releaseDate": "2024-10-16",
+              "translations": [
+                {
+                  "language": "en",
+                  "dhis2Versions": [
+                    {
+                      "version": "2.40",
+                      "metadataReference": "https://packages.dhis2.org/en/EPR_RRT/1.0.0/DHIS2.40/EPR_RRT_COMPLETE_1.0.0_DHIS2.40.xlsx",
+                      "url": "https://packages.dhis2.org/en/EPR_RRT/1.0.0/DHIS2.40/EPR_RRT_1.0.0_DHIS2.40.zip"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
