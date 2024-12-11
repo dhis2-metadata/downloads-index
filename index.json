@@ -588,6 +588,22 @@
                   ]
                 }
               ]
+            },
+            {
+              "version": "2.0.0",
+              "releaseDate": "2024-12-11",
+              "translations": [
+                {
+                  "language": "en",
+                  "dhis2Versions": [
+                    {
+                      "version": "2.39",
+                      "metadataReference": "https://packages.dhis2.org/en/GEN_LIB/2.0.0/DHIS2.39/GEN_LIB_COMPLETE_2.0.0_DHIS2.39.xlsx",
+                      "url": "https://packages.dhis2.org/en/GEN_LIB/2.0.0/DHIS2.39/GEN_LIB_2.0.0_DHIS2.39.zip"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
