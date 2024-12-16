@@ -605,6 +605,11 @@
                       "version": "2.40",
                       "metadataReference": "https://packages.dhis2.org/en/GEN_LIB/2.0.0/DHIS2.40/GEN_LIB_COMPLETE_2.0.0_DHIS2.40.xlsx",
                       "url": "https://packages.dhis2.org/en/GEN_LIB/2.0.0/DHIS2.40/GEN_LIB_2.0.0_DHIS2.40.zip"
+                    },
+                    {
+                      "version": "2.41",
+                      "metadataReference": "https://packages.dhis2.org/en/GEN_LIB/2.0.0/DHIS2.41/GEN_LIB_COMPLETE_2.0.0_DHIS2.41.xlsx",
+                      "url": "https://packages.dhis2.org/en/GEN_LIB/2.0.0/DHIS2.41/GEN_LIB_2.0.0_DHIS2.41.zip"
                     }
                   ]
                 }
