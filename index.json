@@ -2693,6 +2693,11 @@
                       "version": "2.40",
                       "metadataReference": "https://packages.dhis2.org/en/NTD_HRS_AGG/1.0.0/DHIS2.40/NTD_HRS_AGG_1.0.0_DHIS2.40.xlsx",
                       "url": "https://packages.dhis2.org/en/NTD_HRS_AGG/1.0.0/DHIS2.40/NTD_HRS_AGG_1.0.0_DHIS2.40.zip"
+                    },
+                    {
+                      "version": "2.41",
+                      "metadataReference": "https://packages.dhis2.org/en/NTD_HRS_AGG/1.0.0/DHIS2.41/NTD_HRS_AGG_1.0.0_DHIS2.41.xlsx",
+                      "url": "https://packages.dhis2.org/en/NTD_HRS_AGG/1.0.0/DHIS2.41/NTD_HRS_AGG_1.0.0_DHIS2.41.zip"
                     }
                   ]
                 }
