@@ -1139,6 +1139,22 @@
                   ]
                 }
               ]
+            },
+            {
+              "version": "1.1.0",
+              "releaseDate": "2025-01-14",
+              "translations": [
+                {
+                  "language": "en",
+                  "dhis2Versions": [
+                    {
+                      "version": "2.40",
+                      "metadataReference": "https://packages.dhis2.org/en/IMM_AGG/1.1.0/DHIS2.40/IMM_AGG_COMPLETE_1.1.0_DHIS2.40.xlsx",
+                      "url": "https://packages.dhis2.org/en/IMM_AGG/1.1.0/DHIS2.40/IMM_AGG_1.1.0_DHIS2.40.zip"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
