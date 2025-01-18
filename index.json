@@ -1309,6 +1309,28 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Immunization (EPI) Big Catch-Up (complete)",
+          "code": "IMM_BCU",
+          "packageVersions": [
+            {
+              "version": "1.0.0",
+              "releaseDate": "2025-01-18",
+              "translations": [
+                {
+                  "language": "en",
+                  "dhis2Versions": [
+                    {
+                      "version": "2.40",
+                      "metadataReference": "https://packages.dhis2.org/en/IMM_BCU/1.0.0/DHIS2.40/IMM_BCU_COMPLETE_1.0.0_DHIS2.40.xlsx",
+                      "url": "https://packages.dhis2.org/en/IMM_BCU/1.0.0/DHIS2.40/IMM_BCU_1.0.0_DHIS2.40.zip"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
