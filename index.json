@@ -2760,6 +2760,34 @@
           ]
         }
       ]
+    },
+    {
+      "area": "Hepatitis",
+      "code": "HEP",
+      "packages": [
+        {
+          "name": "Hepatitis",
+          "code": "HEP_AGG",
+          "packageVersions": [
+            {
+              "version": "1.0.0",
+              "releaseDate": "2025-03-27",
+              "translations": [
+                {
+                  "language": "en",
+                  "dhis2Versions": [
+                    {
+                      "version": "2.40",
+                      "metadataReference": "https://packages.dhis2.org/en/HEP_AGG/1.0.0/DHIS2.40/HEP_AGG_COMPLETE_1.0.0_DHIS2.40.xlsx",
+                      "url": "https://packages.dhis2.org/en/HEP_AGG/1.0.0/DHIS2.40/HEP_AGG_1.0.0_DHIS2.40.zip"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
