@@ -2846,6 +2846,11 @@
                       "version": "2.40",
                       "metadataReference": "https://packages.dhis2.org/en/STI_AGG/1.0.0/DHIS2.40/STI_AGG_COMPLETE_1.0.0_DHIS2.40.xlsx",
                       "url": "https://packages.dhis2.org/en/STI_AGG/1.0.0/DHIS2.40/STI_AGG_1.0.0_DHIS2.40.zip"
+                    },
+                    {
+                      "version": "2.41",
+                      "metadataReference": "https://packages.dhis2.org/en/STI_AGG/1.0.0/DHIS2.41/STI_AGG_COMPLETE_1.0.0_DHIS2.41.xlsx",
+                      "url": "https://packages.dhis2.org/en/STI_AGG/1.0.0/DHIS2.41/STI_AGG_1.0.0_DHIS2.41.zip"
                     }
                   ]
                 }
