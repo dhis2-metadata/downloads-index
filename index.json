@@ -2760,6 +2760,34 @@
           ]
         }
       ]
+    },
+    {
+      "area": "LMIS",
+      "code": "LMIS",
+      "packages": [
+        {
+          "name": "LMIS: stock report",
+          "code": "LMIS_STK",
+          "packageVersions": [
+            {
+              "version": "1.0.0",
+              "releaseDate": "2025-03-27",
+              "translations": [
+                {
+                  "language": "en",
+                  "dhis2Versions": [
+                    {
+                      "version": "2.40",
+                      "metadataReference": "https://packages.dhis2.org/en/LMIS_STK/1.0.0/DHIS2.40/LMIS_STK_COMPLETE_1.0.0_DHIS2.40.xlsx",
+                      "url": "https://packages.dhis2.org/en/LMIS_STK/1.0.0/DHIS2.40/LMIS_STK_1.0.0_DHIS2.40.zip"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
