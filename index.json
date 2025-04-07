@@ -2795,11 +2795,11 @@
       ]
     },
     {
-      "area": "Logistic",
+      "area": "Logistics",
       "code": "LMIS",
       "packages": [
         {
-          "name": "Logistic: stock report",
+          "name": "Logistics: stock report",
           "code": "LMIS_STK",
           "packageVersions": [
             {
