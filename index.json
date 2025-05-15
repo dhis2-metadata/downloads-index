@@ -2840,6 +2840,11 @@
                       "version": "2.41",
                       "metadataReference": "https://packages.dhis2.org/en/LMIS_CCE/1.0.0/DHIS2.41/LMIS_CCE_COMPLETE_1.0.0_DHIS2.41.xlsx",
                       "url": "https://packages.dhis2.org/en/LMIS_CCE/1.0.0/DHIS2.41/LMIS_CCE_1.0.0_DHIS2.41.zip"
+                    },
+                    {
+                      "version": "2.40",
+                      "metadataReference": "https://packages.dhis2.org/en/LMIS_CCE/1.0.0/DHIS2.40/LMIS_CCE_COMPLETE_1.0.0_DHIS2.40.xlsx",
+                      "url": "https://packages.dhis2.org/en/LMIS_CCE/1.0.0/DHIS2.40/LMIS_CCE_1.0.0_DHIS2.40.zip"
                     }
                   ]
                 }
