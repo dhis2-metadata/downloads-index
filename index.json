@@ -2758,6 +2758,28 @@
               ]
             }
           ]
+        },
+        {
+          "name": "NTD disease specific: Buruli ulcer",
+          "code": "NTD_BUR_DS",
+          "packageVersions": [
+            {
+              "version": "1.0.0",
+              "releaseDate": "2025-07-03",
+              "translations": [
+                {
+                  "language": "en",
+                  "dhis2Versions": [
+                    {
+                      "version": "2.40",
+                      "metadataReference": "https://packages.dhis2.org/en/NTD_BUR_DS/1.0.0/DHIS2.40/NTD_BUR_DS_1.0.0_DHIS2.40.xlsx",
+                      "url": "https://packages.dhis2.org/en/NTD_BUR_DS/1.0.0/DHIS2.40/NTD_BUR_DS_1.0.0_DHIS2.40.zip"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
