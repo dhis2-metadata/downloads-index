@@ -2785,6 +2785,28 @@
               ]
             }
           ]
+        },
+        {
+          "name": "NTD disease specific: Schistosomiasis",
+          "code": "NTD_SCH_DS",
+          "packageVersions": [
+            {
+              "version": "1.0.0",
+              "releaseDate": "2025-07-07",
+              "translations": [
+                {
+                  "language": "en",
+                  "dhis2Versions": [
+                    {
+                      "version": "2.40",
+                      "metadataReference": "https://packages.dhis2.org/en/NTD_SCH_DS/1.0.0/DHIS2.40/NTD_SCH_DS_1.0.0_DHIS2.40.xlsx",
+                      "url": "https://packages.dhis2.org/en/NTD_SCH_DS/1.0.0/DHIS2.40/NTD_SCH_DS_1.0.0_DHIS2.40.zip"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
