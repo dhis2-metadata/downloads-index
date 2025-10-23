@@ -889,6 +889,22 @@
                   ]
                 }
               ]
+            },
+            {
+              "version": "2.0.2",
+              "releaseDate": "2025-10-23",
+              "translations": [
+                {
+                  "language": "en",
+                  "dhis2Versions": [
+                    {
+                      "version": "2.41",
+                      "metadataReference": "https://packages.dhis2.org/en/HIV_CS/2.0.2/DHIS2.41/HIV_CS_COMPLETE_2.0.2_DHIS2.41.xlsx",
+                      "url": "https://packages.dhis2.org/en/HIV_CS/2.0.2/DHIS2.41/HIV_CS_2.0.2_DHIS2.41.zip"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
