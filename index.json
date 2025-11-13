@@ -2037,6 +2037,28 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Emergency Obstetric and Newborn Care",
+          "code": "RMNCAH_EMONC",
+          "packageVersions": [
+            {
+              "version": "1.0.0",
+              "releaseDate": "2025-11-13",
+              "translations": [
+                {
+                  "language": "en",
+                  "dhis2Versions": [
+                    {
+                      "version": "2.41",
+                      "metadataReference": "https://packages.dhis2.org/en/RMNCAH_EMONC/1.0.0/DHIS2.41/RMNCAH_EMONC_COMPLETE_1.0.0_DHIS2.41.xlsx",
+                      "url": "https://packages.dhis2.org/en/RMNCAH_EMONC/1.0.0/DHIS2.41/RMNCAH_EMONC_1.0.0_DHIS2.41.zip"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
