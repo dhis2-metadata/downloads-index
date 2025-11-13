@@ -2015,6 +2015,28 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Maternal and Perinatal Death Surveillance and Response",
+          "code": "RMNCAH_MPDSR",
+          "packageVersions": [
+            {
+              "version": "1.0.0",
+              "releaseDate": "2025-11-13",
+              "translations": [
+                {
+                  "language": "en",
+                  "dhis2Versions": [
+                    {
+                      "version": "2.41",
+                      "metadataReference": "https://packages.dhis2.org/en/RMNCAH_MPDSR/1.0.0/DHIS2.41/RMNCAH_MPDSR_COMPLETE_1.0.0_DHIS2.41.xlsx",
+                      "url": "https://packages.dhis2.org/en/RMNCAH_MPDSR/1.0.0/DHIS2.41/RMNCAH_MPDSR_1.0.0_DHIS2.41.zip"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
