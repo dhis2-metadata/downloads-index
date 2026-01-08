@@ -2353,6 +2353,22 @@
                   ]
                 }
               ]
+            },
+            {
+              "version": "3.0.0",
+              "releaseDate": "2026-01-08",
+              "translations": [
+                {
+                  "language": "en",
+                  "dhis2Versions": [
+                    {
+                      "version": "2.41",
+                      "metadataReference": "https://packages.dhis2.org/en/TB_AGG/3.0.0/DHIS2.41/TB_AGG_COMPLETE_3.0.0_DHIS2.41.xlsx",
+                      "url": "https://packages.dhis2.org/en/TB_AGG/3.0.0/DHIS2.41/TB_AGG_3.0.0_DHIS2.41.zip"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
