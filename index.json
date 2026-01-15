@@ -1474,6 +1474,11 @@
                       "version": "2.41",
                       "metadataReference": "https://packages.dhis2.org/en/MAL_AGG/2.1.1/DHIS2.41/MAL_AGG_COMPLETE_2.1.1_DHIS2.41.xlsx",
                       "url": "https://packages.dhis2.org/en/MAL_AGG/2.1.1/DHIS2.41/MAL_AGG_2.1.1_DHIS2.41.zip"
+                    },
+                    {
+                      "version": "2.42",
+                      "metadataReference": "https://packages.dhis2.org/en/MAL_AGG/2.1.1/DHIS2.42/MAL_AGG_COMPLETE_2.1.1_DHIS2.42.xlsx",
+                      "url": "https://packages.dhis2.org/en/MAL_AGG/2.1.1/DHIS2.42/MAL_AGG_2.1.1_DHIS2.42.zip"
                     }
                   ]
                 },
