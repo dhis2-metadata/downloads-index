@@ -1395,6 +1395,28 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Immunization - Demand Module (complete)",
+          "code": "IMM_DM",
+          "packageVersions": [
+            {
+              "version": "1.0.0",
+              "releaseDate": "2026-02-09",
+              "translations": [
+                {
+                  "language": "en",
+                  "dhis2Versions": [
+                    {
+                      "version": "2.41",
+                      "metadataReference": "https://packages.dhis2.org/en/IMM_DM/1.0.0/DHIS2.41/IMM_DM_COMPLETE_1.0.0_DHIS2.41.xlsx",
+                      "url": "https://packages.dhis2.org/en/IMM_DM/1.0.0/DHIS2.41/IMM_DM_1.0.0_DHIS2.41.zip"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
