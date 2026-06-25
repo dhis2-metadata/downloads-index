@@ -1822,7 +1822,7 @@
                     }
                   ]
                 },
-                 {
+                {
                   "language": "es",
                   "dhis2Versions": [
                     {
@@ -1839,6 +1839,22 @@
                       "version": "2.42",
                       "metadataReference": "https://packages.dhis2.org/fr/NCD_CR/1.0.0/DHIS2.42/NCD_CR_COMPLETE_1.0.0_DHIS2.42.xlsx",
                       "url": "https://packages.dhis2.org/fr/NCD_CR/1.0.0/DHIS2.42/NCD_CR_1.0.0_DHIS2.42.zip"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "version": "1.0.1",
+              "releaseDate": "2026-06-24",
+              "translations": [
+                {
+                  "language": "en",
+                  "dhis2Versions": [
+                    {
+                      "version": "2.42",
+                      "metadataReference": "https://packages.dhis2.org/en/NCD_CR/1.0.1/DHIS2.42/NCD_CR_COMPLETE_1.0.1_DHIS2.42.xlsx",
+                      "url": "https://packages.dhis2.org/en/NCD_CR/1.0.1/DHIS2.42/NCD_CR_1.0.1_DHIS2.42.zip"
                     }
                   ]
                 }
