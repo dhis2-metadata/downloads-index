@@ -3038,7 +3038,7 @@
           ]
         },
         {
-          "name": "NTD LMIS (dashboard)",
+          "name": "NTD LMIS",
           "code": "NTD_LMIS",
           "packageVersions": [
             {
