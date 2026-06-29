@@ -3036,6 +3036,28 @@
               ]
             }
           ]
+        },
+        {
+          "name": "NTD LMIS (dashboard)",
+          "code": "NTD_LMIS",
+          "packageVersions": [
+            {
+              "version": "1.0.0",
+              "releaseDate": "2026-06-29",
+              "translations": [
+                {
+                  "language": "en",
+                  "dhis2Versions": [
+                    {
+                      "version": "2.40",
+                      "metadataReference": "https://packages.dhis2.org/en/NTD_LMIS/1.0.0/DHIS2.40/NTD_LMIS_COMPLETE_1.0.0_DHIS2.40.xlsx",
+                      "url": "https://packages.dhis2.org/en/NTD_LMIS/1.0.0/DHIS2.40/NTD_LMIS_1.0.0_DHIS2.40.zip"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
