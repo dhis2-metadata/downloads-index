@@ -1924,6 +1924,22 @@
                   ]
                 }
               ]
+            },
+            {
+              "version": "1.0.1",
+              "releaseDate": "2026-11-11",
+              "translations": [
+                {
+                  "language": "en",
+                  "dhis2Versions": [
+                    {
+                      "version": "2.42",
+                      "metadataReference": "https://packages.dhis2.org/en/NCD_HDM/1.0.1/DHIS2.42/NCD_HDM_COMPLETE_1.0.1_DHIS2.42.xlsx",
+                      "url": "https://packages.dhis2.org/en/NCD_HDM/1.0.1/DHIS2.42/NCD_HDM_1.0.1_DHIS2.42.zip"
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
