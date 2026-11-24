@@ -2941,6 +2941,11 @@
                       "version": "2.40",
                       "metadataReference": "https://packages.dhis2.org/en/HFP/1.0.0/DHIS2.40/HFP_COMPLETE_1.0.0_DHIS2.40.xlsx",
                       "url": "https://packages.dhis2.org/en/HFP/1.0.0/DHIS2.40/HFP_1.0.0_DHIS2.40.zip"
+                    },
+                    {
+                      "version": "2.42",
+                      "metadataReference": "https://packages.dhis2.org/en/HFP/1.0.0/DHIS2.42/HFP_1.0.0_DHIS2.42.xlsx",
+                      "url": "https://packages.dhis2.org/en/HFP/1.0.0/DHIS2.42/HFP_1.0.0_DHIS2.42.zip"
                     }
                   ]
                 }
